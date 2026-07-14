@@ -73,7 +73,7 @@ a generic SaaS template:
 
 ## Automation — Zapier low-stock alert (documented design)
 
-![Zapier workflow diagram](diagrams/zapier_workflow_diagram_preview.png)
+![Zapier workflow diagram](https://github.com/dinesh-puppala/Demand-Forecasting-Inventory-Balancing-Dashboard/blob/main/Project2_Demand_Forecasting_Inventory_Balancing_1/diagrams/zapier_workflow_diagram_preview.png)
 
 `docs/Zapier_Automation_Design.md` documents the full trigger → filter → action
 chain (Google Sheets → Filter → Slack + Gmail) and field mapping. Designed and

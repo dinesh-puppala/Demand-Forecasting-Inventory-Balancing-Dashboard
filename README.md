@@ -7,7 +7,7 @@ NetSuite-style export. SQL for classification, Excel for the live planning model
 Power BI for the executive dashboard, Python for a forecasting stretch, and a
 documented Zapier automation for the alerting layer.
 
-![Dashboard preview](screenshots/dashboard_preview.png)
+![Dashboard preview](https://github.com/dinesh-puppala/Demand-Forecasting-Inventory-Balancing-Dashboard/blob/main/Project2_Demand_Forecasting_Inventory_Balancing_1/screenshots/dashboard_preview.png)
 
 ---
 

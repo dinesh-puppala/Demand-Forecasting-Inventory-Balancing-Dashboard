@@ -1,0 +1,1806 @@
+SKU_ID,Week_Ending,Qty_Sold,Revenue,Week_Index,Category,ABC_Class,XYZ_Class
+MM-1000,2025-07-13,142,961.93,1,Fasteners & Hardware,B,X
+MM-1000,2025-07-20,184,1242.63,2,Fasteners & Hardware,B,X
+MM-1000,2025-07-27,159,1076.92,3,Fasteners & Hardware,B,X
+MM-1000,2025-08-03,181,1286.49,4,Fasteners & Hardware,B,X
+MM-1000,2025-08-10,96,678.31,5,Fasteners & Hardware,B,X
+MM-1000,2025-08-17,157,1098.89,6,Fasteners & Hardware,B,X
+MM-1000,2025-08-24,133,902.78,7,Fasteners & Hardware,B,X
+MM-1000,2025-08-31,135,937.7,8,Fasteners & Hardware,B,X
+MM-1000,2025-09-07,208,1440.3,9,Fasteners & Hardware,B,X
+MM-1000,2025-09-14,132,923.75,10,Fasteners & Hardware,B,X
+MM-1000,2025-09-21,152,1032.08,11,Fasteners & Hardware,B,X
+MM-1000,2025-09-28,64,441.95,12,Fasteners & Hardware,B,X
+MM-1000,2025-10-05,200,1376.97,13,Fasteners & Hardware,B,X
+MM-1000,2025-10-12,161,1105.78,14,Fasteners & Hardware,B,X
+MM-1000,2025-10-19,121,849.1,15,Fasteners & Hardware,B,X
+MM-1000,2025-10-26,108,769.71,16,Fasteners & Hardware,B,X
+MM-1000,2025-11-02,137,949.69,17,Fasteners & Hardware,B,X
+MM-1000,2025-11-09,154,1071.03,18,Fasteners & Hardware,B,X
+MM-1000,2025-11-16,170,1190.6,19,Fasteners & Hardware,B,X
+MM-1000,2025-11-23,138,959.6,20,Fasteners & Hardware,B,X
+MM-1000,2025-11-30,112,767.4,21,Fasteners & Hardware,B,X
+MM-1000,2025-12-07,144,981.52,22,Fasteners & Hardware,B,X
+MM-1000,2025-12-14,138,978.45,23,Fasteners & Hardware,B,X
+MM-1000,2025-12-21,117,817.55,24,Fasteners & Hardware,B,X
+MM-1000,2025-12-28,143,1005.86,25,Fasteners & Hardware,B,X
+MM-1000,2026-01-04,147,1046.86,26,Fasteners & Hardware,B,X
+MM-1000,2026-01-11,121,862.86,27,Fasteners & Hardware,B,X
+MM-1000,2026-01-18,107,746.75,28,Fasteners & Hardware,B,X
+MM-1000,2026-01-25,155,1094.75,29,Fasteners & Hardware,B,X
+MM-1000,2026-02-01,92,629.03,30,Fasteners & Hardware,B,X
+MM-1000,2026-02-08,86,582.34,31,Fasteners & Hardware,B,X
+MM-1000,2026-02-15,149,1038.09,32,Fasteners & Hardware,B,X
+MM-1000,2026-02-22,162,1121.99,33,Fasteners & Hardware,B,X
+MM-1000,2026-03-01,149,1050.43,34,Fasteners & Hardware,B,X
+MM-1000,2026-03-08,152,1054.38,35,Fasteners & Hardware,B,X
+MM-1000,2026-03-15,51,363.1,36,Fasteners & Hardware,B,X
+MM-1000,2026-03-22,153,1037.43,37,Fasteners & Hardware,B,X
+MM-1000,2026-03-29,183,1282.05,38,Fasteners & Hardware,B,X
+MM-1000,2026-04-05,155,1093.41,39,Fasteners & Hardware,B,X
+MM-1000,2026-04-12,149,1023.74,40,Fasteners & Hardware,B,X
+MM-1000,2026-04-19,124,874.12,41,Fasteners & Hardware,B,X
+MM-1000,2026-04-26,121,832.9,42,Fasteners & Hardware,B,X
+MM-1000,2026-05-03,104,706.93,43,Fasteners & Hardware,B,X
+MM-1000,2026-05-10,118,840.35,44,Fasteners & Hardware,B,X
+MM-1000,2026-05-17,71,489.29,45,Fasteners & Hardware,B,X
+MM-1000,2026-05-24,149,1037.35,46,Fasteners & Hardware,B,X
+MM-1000,2026-05-31,77,543.37,47,Fasteners & Hardware,B,X
+MM-1000,2026-06-07,129,888.62,48,Fasteners & Hardware,B,X
+MM-1000,2026-06-14,146,1026.48,49,Fasteners & Hardware,B,X
+MM-1000,2026-06-21,133,901.89,50,Fasteners & Hardware,B,X
+MM-1000,2026-06-28,185,1294.46,51,Fasteners & Hardware,B,X
+MM-1000,2026-07-05,45,313.95,52,Fasteners & Hardware,B,X
+MM-1001,2025-07-13,132,867.72,1,Fasteners & Hardware,B,X
+MM-1001,2025-07-20,148,963.73,2,Fasteners & Hardware,B,X
+MM-1001,2025-07-27,183,1226.32,3,Fasteners & Hardware,B,X
+MM-1001,2025-08-03,148,1004.41,4,Fasteners & Hardware,B,X
+MM-1001,2025-08-10,186,1209.85,5,Fasteners & Hardware,B,X
+MM-1001,2025-08-17,199,1280.44,6,Fasteners & Hardware,B,X
+MM-1001,2025-08-24,194,1247.04,7,Fasteners & Hardware,B,X
+MM-1001,2025-08-31,196,1255.14,8,Fasteners & Hardware,B,X
+MM-1001,2025-09-07,173,1115.65,9,Fasteners & Hardware,B,X
+MM-1001,2025-09-14,190,1229.43,10,Fasteners & Hardware,B,X
+MM-1001,2025-09-21,172,1144.11,11,Fasteners & Hardware,B,X
+MM-1001,2025-09-28,169,1080.66,12,Fasteners & Hardware,B,X
+MM-1001,2025-10-05,183,1213.63,13,Fasteners & Hardware,B,X
+MM-1001,2025-10-12,134,869.21,14,Fasteners & Hardware,B,X
+MM-1001,2025-10-19,109,699.23,15,Fasteners & Hardware,B,X
+MM-1001,2025-10-26,156,1054.43,16,Fasteners & Hardware,B,X
+MM-1001,2025-11-02,140,933.57,17,Fasteners & Hardware,B,X
+MM-1001,2025-11-09,152,974.04,18,Fasteners & Hardware,B,X
+MM-1001,2025-11-16,116,747.24,19,Fasteners & Hardware,B,X
+MM-1001,2025-11-23,124,829.18,20,Fasteners & Hardware,B,X
+MM-1001,2025-11-30,128,861.29,21,Fasteners & Hardware,B,X
+MM-1001,2025-12-07,119,795.25,22,Fasteners & Hardware,B,X
+MM-1001,2025-12-14,118,766.92,23,Fasteners & Hardware,B,X
+MM-1001,2025-12-21,151,1023.76,24,Fasteners & Hardware,B,X
+MM-1001,2025-12-28,121,776.08,25,Fasteners & Hardware,B,X
+MM-1001,2026-01-04,134,858.81,26,Fasteners & Hardware,B,X
+MM-1001,2026-01-11,159,1060.99,27,Fasteners & Hardware,B,X
+MM-1001,2026-01-18,189,1215.0,28,Fasteners & Hardware,B,X
+MM-1001,2026-01-25,167,1132.23,29,Fasteners & Hardware,B,X
+MM-1001,2026-02-01,171,1146.1,30,Fasteners & Hardware,B,X
+MM-1001,2026-02-08,187,1237.68,31,Fasteners & Hardware,B,X
+MM-1001,2026-02-15,204,1380.34,32,Fasteners & Hardware,B,X
+MM-1001,2026-02-22,190,1257.96,33,Fasteners & Hardware,B,X
+MM-1001,2026-03-01,224,1489.38,34,Fasteners & Hardware,B,X
+MM-1001,2026-03-08,223,1438.57,35,Fasteners & Hardware,B,X
+MM-1001,2026-03-15,190,1244.89,36,Fasteners & Hardware,B,X
+MM-1001,2026-03-22,231,1487.51,37,Fasteners & Hardware,B,X
+MM-1001,2026-03-29,182,1183.41,38,Fasteners & Hardware,B,X
+MM-1001,2026-04-05,195,1279.49,39,Fasteners & Hardware,B,X
+MM-1001,2026-04-12,171,1135.99,40,Fasteners & Hardware,B,X
+MM-1001,2026-04-19,162,1061.74,41,Fasteners & Hardware,B,X
+MM-1001,2026-04-26,120,794.99,42,Fasteners & Hardware,B,X
+MM-1001,2026-05-03,123,788.01,43,Fasteners & Hardware,B,X
+MM-1001,2026-05-10,132,868.53,44,Fasteners & Hardware,B,X
+MM-1001,2026-05-17,150,992.8,45,Fasteners & Hardware,B,X
+MM-1001,2026-05-24,136,907.1,46,Fasteners & Hardware,B,X
+MM-1001,2026-05-31,126,837.93,47,Fasteners & Hardware,B,X
+MM-1001,2026-06-07,143,958.62,48,Fasteners & Hardware,B,X
+MM-1001,2026-06-14,155,1017.25,49,Fasteners & Hardware,B,X
+MM-1001,2026-06-21,143,934.49,50,Fasteners & Hardware,B,X
+MM-1001,2026-06-28,155,1035.96,51,Fasteners & Hardware,B,X
+MM-1001,2026-07-05,161,1087.79,52,Fasteners & Hardware,B,X
+MM-1002,2025-07-13,88,433.69,1,Fasteners & Hardware,B,Y
+MM-1002,2025-07-20,144,691.69,2,Fasteners & Hardware,B,Y
+MM-1002,2025-07-27,167,801.36,3,Fasteners & Hardware,B,Y
+MM-1002,2025-08-03,118,575.95,4,Fasteners & Hardware,B,Y
+MM-1002,2025-08-10,120,584.99,5,Fasteners & Hardware,B,Y
+MM-1002,2025-08-17,60,287.19,6,Fasteners & Hardware,B,Y
+MM-1002,2025-08-24,55,276.95,7,Fasteners & Hardware,B,Y
+MM-1002,2025-08-31,192,926.89,8,Fasteners & Hardware,B,Y
+MM-1002,2025-09-07,107,515.47,9,Fasteners & Hardware,B,Y
+MM-1002,2025-09-14,15,75.98,10,Fasteners & Hardware,B,Y
+MM-1002,2025-09-21,230,1152.41,11,Fasteners & Hardware,B,Y
+MM-1002,2025-09-28,109,543.42,12,Fasteners & Hardware,B,Y
+MM-1002,2025-10-05,68,332.98,13,Fasteners & Hardware,B,Y
+MM-1002,2025-10-12,130,622.09,14,Fasteners & Hardware,B,Y
+MM-1002,2025-10-19,152,750.49,15,Fasteners & Hardware,B,Y
+MM-1002,2025-10-26,144,695.69,16,Fasteners & Hardware,B,Y
+MM-1002,2025-11-02,150,761.2,17,Fasteners & Hardware,B,Y
+MM-1002,2025-11-09,82,412.48,18,Fasteners & Hardware,B,Y
+MM-1002,2025-11-16,161,776.66,19,Fasteners & Hardware,B,Y
+MM-1002,2025-11-23,163,798.41,20,Fasteners & Hardware,B,Y
+MM-1002,2025-11-30,166,830.92,21,Fasteners & Hardware,B,Y
+MM-1002,2025-12-07,126,620.04,22,Fasteners & Hardware,B,Y
+MM-1002,2025-12-14,106,512.58,23,Fasteners & Hardware,B,Y
+MM-1002,2025-12-21,105,503.51,24,Fasteners & Hardware,B,Y
+MM-1002,2025-12-28,66,321.32,25,Fasteners & Hardware,B,Y
+MM-1002,2026-01-04,108,535.2,26,Fasteners & Hardware,B,Y
+MM-1002,2026-01-11,38,182.67,27,Fasteners & Hardware,B,Y
+MM-1002,2026-01-18,68,342.15,28,Fasteners & Hardware,B,Y
+MM-1002,2026-01-25,152,756.07,29,Fasteners & Hardware,B,Y
+MM-1002,2026-02-01,134,671.04,30,Fasteners & Hardware,B,Y
+MM-1002,2026-02-08,157,767.82,31,Fasteners & Hardware,B,Y
+MM-1002,2026-02-15,183,893.45,32,Fasteners & Hardware,B,Y
+MM-1002,2026-02-22,170,837.22,33,Fasteners & Hardware,B,Y
+MM-1002,2026-03-01,166,835.66,34,Fasteners & Hardware,B,Y
+MM-1002,2026-03-08,149,752.62,35,Fasteners & Hardware,B,Y
+MM-1002,2026-03-15,117,588.93,36,Fasteners & Hardware,B,Y
+MM-1002,2026-03-22,94,463.39,37,Fasteners & Hardware,B,Y
+MM-1002,2026-03-29,124,596.83,38,Fasteners & Hardware,B,Y
+MM-1002,2026-04-05,141,712.54,39,Fasteners & Hardware,B,Y
+MM-1002,2026-04-12,143,691.35,40,Fasteners & Hardware,B,Y
+MM-1002,2026-04-19,175,846.79,41,Fasteners & Hardware,B,Y
+MM-1002,2026-04-26,128,647.22,42,Fasteners & Hardware,B,Y
+MM-1002,2026-05-03,154,750.45,43,Fasteners & Hardware,B,Y
+MM-1002,2026-05-10,73,349.25,44,Fasteners & Hardware,B,Y
+MM-1002,2026-05-17,139,693.62,45,Fasteners & Hardware,B,Y
+MM-1002,2026-05-24,135,684.79,46,Fasteners & Hardware,B,Y
+MM-1002,2026-05-31,180,886.2,47,Fasteners & Hardware,B,Y
+MM-1002,2026-06-07,120,605.92,48,Fasteners & Hardware,B,Y
+MM-1002,2026-06-14,37,187.48,49,Fasteners & Hardware,B,Y
+MM-1002,2026-06-21,124,624.77,50,Fasteners & Hardware,B,Y
+MM-1002,2026-06-28,169,844.79,51,Fasteners & Hardware,B,Y
+MM-1002,2026-07-05,93,459.95,52,Fasteners & Hardware,B,Y
+MM-1003,2026-04-12,411,2140.05,1,Fasteners & Hardware,C,Z
+MM-1003,2026-04-19,133,666.89,2,Fasteners & Hardware,C,Z
+MM-1003,2026-04-26,30,156.46,3,Fasteners & Hardware,C,Z
+MM-1003,2026-05-03,117,617.7,4,Fasteners & Hardware,C,Z
+MM-1003,2026-05-10,203,1071.25,5,Fasteners & Hardware,C,Z
+MM-1003,2026-05-17,232,1211.13,6,Fasteners & Hardware,C,Z
+MM-1003,2026-05-24,317,1631.62,7,Fasteners & Hardware,C,Z
+MM-1003,2026-05-31,102,536.59,8,Fasteners & Hardware,C,Z
+MM-1003,2026-06-07,264,1316.69,9,Fasteners & Hardware,C,Z
+MM-1003,2026-06-21,60,311.04,10,Fasteners & Hardware,C,Z
+MM-1003,2026-06-28,14,73.0,11,Fasteners & Hardware,C,Z
+MM-1003,2026-07-05,93,483.94,12,Fasteners & Hardware,C,Z
+MM-1004,2025-07-13,170,1126.58,1,Fasteners & Hardware,B,X
+MM-1004,2025-07-20,193,1332.21,2,Fasteners & Hardware,B,X
+MM-1004,2025-07-27,204,1385.07,3,Fasteners & Hardware,B,X
+MM-1004,2025-08-03,190,1311.06,4,Fasteners & Hardware,B,X
+MM-1004,2025-08-10,179,1248.45,5,Fasteners & Hardware,B,X
+MM-1004,2025-08-17,248,1729.75,6,Fasteners & Hardware,B,X
+MM-1004,2025-08-24,199,1366.54,7,Fasteners & Hardware,B,X
+MM-1004,2025-08-31,201,1354.28,8,Fasteners & Hardware,B,X
+MM-1004,2025-09-07,203,1360.5,9,Fasteners & Hardware,B,X
+MM-1004,2025-09-14,218,1474.82,10,Fasteners & Hardware,B,X
+MM-1004,2025-09-21,163,1133.83,11,Fasteners & Hardware,B,X
+MM-1004,2025-09-28,240,1619.17,12,Fasteners & Hardware,B,X
+MM-1004,2025-10-05,178,1189.25,13,Fasteners & Hardware,B,X
+MM-1004,2025-10-12,191,1343.48,14,Fasteners & Hardware,B,X
+MM-1004,2025-10-19,144,989.14,15,Fasteners & Hardware,B,X
+MM-1004,2025-10-26,166,1162.03,16,Fasteners & Hardware,B,X
+MM-1004,2025-11-02,192,1282.59,17,Fasteners & Hardware,B,X
+MM-1004,2025-11-09,182,1210.78,18,Fasteners & Hardware,B,X
+MM-1004,2025-11-16,159,1054.54,19,Fasteners & Hardware,B,X
+MM-1004,2025-11-23,131,901.95,20,Fasteners & Hardware,B,X
+MM-1004,2025-11-30,168,1141.96,21,Fasteners & Hardware,B,X
+MM-1004,2025-12-07,118,818.12,22,Fasteners & Hardware,B,X
+MM-1004,2025-12-14,135,910.13,23,Fasteners & Hardware,B,X
+MM-1004,2025-12-21,155,1041.82,24,Fasteners & Hardware,B,X
+MM-1004,2025-12-28,131,916.69,25,Fasteners & Hardware,B,X
+MM-1004,2026-01-04,158,1094.83,26,Fasteners & Hardware,B,X
+MM-1004,2026-01-11,193,1330.33,27,Fasteners & Hardware,B,X
+MM-1004,2026-01-18,168,1129.63,28,Fasteners & Hardware,B,X
+MM-1004,2026-01-25,209,1397.96,29,Fasteners & Hardware,B,X
+MM-1004,2026-02-01,252,1727.51,30,Fasteners & Hardware,B,X
+MM-1004,2026-02-08,210,1458.73,31,Fasteners & Hardware,B,X
+MM-1004,2026-02-15,224,1527.74,32,Fasteners & Hardware,B,X
+MM-1004,2026-02-22,237,1635.67,33,Fasteners & Hardware,B,X
+MM-1004,2026-03-01,195,1306.69,34,Fasteners & Hardware,B,X
+MM-1004,2026-03-08,223,1486.71,35,Fasteners & Hardware,B,X
+MM-1004,2026-03-15,189,1326.14,36,Fasteners & Hardware,B,X
+MM-1004,2026-03-22,203,1380.91,37,Fasteners & Hardware,B,X
+MM-1004,2026-03-29,211,1480.89,38,Fasteners & Hardware,B,X
+MM-1004,2026-04-05,164,1089.28,39,Fasteners & Hardware,B,X
+MM-1004,2026-04-12,126,838.15,40,Fasteners & Hardware,B,X
+MM-1004,2026-04-19,149,1018.65,41,Fasteners & Hardware,B,X
+MM-1004,2026-04-26,182,1209.57,42,Fasteners & Hardware,B,X
+MM-1004,2026-05-03,135,915.66,43,Fasteners & Hardware,B,X
+MM-1004,2026-05-10,168,1161.08,44,Fasteners & Hardware,B,X
+MM-1004,2026-05-17,130,877.36,45,Fasteners & Hardware,B,X
+MM-1004,2026-05-24,140,951.42,46,Fasteners & Hardware,B,X
+MM-1004,2026-05-31,144,960.63,47,Fasteners & Hardware,B,X
+MM-1004,2026-06-07,127,841.45,48,Fasteners & Hardware,B,X
+MM-1004,2026-06-14,145,989.73,49,Fasteners & Hardware,B,X
+MM-1004,2026-06-21,125,850.23,50,Fasteners & Hardware,B,X
+MM-1004,2026-06-28,153,1066.38,51,Fasteners & Hardware,B,X
+MM-1004,2026-07-05,164,1108.19,52,Fasteners & Hardware,B,X
+MM-1005,2025-07-13,70,351.14,1,Bearings & Bushings,C,X
+MM-1005,2025-07-20,44,214.65,2,Bearings & Bushings,C,X
+MM-1005,2025-07-27,77,368.63,3,Bearings & Bushings,C,X
+MM-1005,2025-08-03,81,387.49,4,Bearings & Bushings,C,X
+MM-1005,2025-08-10,77,365.44,5,Bearings & Bushings,C,X
+MM-1005,2025-08-17,89,422.97,6,Bearings & Bushings,C,X
+MM-1005,2025-08-24,37,182.23,7,Bearings & Bushings,C,X
+MM-1005,2025-08-31,95,466.48,8,Bearings & Bushings,C,X
+MM-1005,2025-09-07,50,249.63,9,Bearings & Bushings,C,X
+MM-1005,2025-09-14,74,369.53,10,Bearings & Bushings,C,X
+MM-1005,2025-09-21,110,527.02,11,Bearings & Bushings,C,X
+MM-1005,2025-09-28,63,314.64,12,Bearings & Bushings,C,X
+MM-1005,2025-10-05,69,345.89,13,Bearings & Bushings,C,X
+MM-1005,2025-10-12,47,231.26,14,Bearings & Bushings,C,X
+MM-1005,2025-10-19,102,494.64,15,Bearings & Bushings,C,X
+MM-1005,2025-10-26,47,227.33,16,Bearings & Bushings,C,X
+MM-1005,2025-11-02,77,378.81,17,Bearings & Bushings,C,X
+MM-1005,2025-11-09,87,423.24,18,Bearings & Bushings,C,X
+MM-1005,2025-11-16,77,367.0,19,Bearings & Bushings,C,X
+MM-1005,2025-11-23,69,334.3,20,Bearings & Bushings,C,X
+MM-1005,2025-11-30,65,311.47,21,Bearings & Bushings,C,X
+MM-1005,2025-12-07,39,193.09,22,Bearings & Bushings,C,X
+MM-1005,2025-12-14,98,473.96,23,Bearings & Bushings,C,X
+MM-1005,2025-12-21,71,349.14,24,Bearings & Bushings,C,X
+MM-1005,2025-12-28,68,325.41,25,Bearings & Bushings,C,X
+MM-1005,2026-01-04,46,220.53,26,Bearings & Bushings,C,X
+MM-1005,2026-01-11,72,362.47,27,Bearings & Bushings,C,X
+MM-1005,2026-01-18,72,341.87,28,Bearings & Bushings,C,X
+MM-1005,2026-01-25,115,565.21,29,Bearings & Bushings,C,X
+MM-1005,2026-02-01,77,385.51,30,Bearings & Bushings,C,X
+MM-1005,2026-02-08,79,387.15,31,Bearings & Bushings,C,X
+MM-1005,2026-02-15,53,255.64,32,Bearings & Bushings,C,X
+MM-1005,2026-02-22,62,304.9,33,Bearings & Bushings,C,X
+MM-1005,2026-03-01,92,454.3,34,Bearings & Bushings,C,X
+MM-1005,2026-03-08,37,175.7,35,Bearings & Bushings,C,X
+MM-1005,2026-03-15,103,495.55,36,Bearings & Bushings,C,X
+MM-1005,2026-03-22,102,491.41,37,Bearings & Bushings,C,X
+MM-1005,2026-03-29,57,279.63,38,Bearings & Bushings,C,X
+MM-1005,2026-04-05,83,410.2,39,Bearings & Bushings,C,X
+MM-1005,2026-04-12,103,505.69,40,Bearings & Bushings,C,X
+MM-1005,2026-04-19,70,352.23,41,Bearings & Bushings,C,X
+MM-1005,2026-04-26,65,318.13,42,Bearings & Bushings,C,X
+MM-1005,2026-05-03,66,328.47,43,Bearings & Bushings,C,X
+MM-1005,2026-05-10,75,364.72,44,Bearings & Bushings,C,X
+MM-1005,2026-05-17,56,280.24,45,Bearings & Bushings,C,X
+MM-1005,2026-05-24,60,296.61,46,Bearings & Bushings,C,X
+MM-1005,2026-05-31,74,371.88,47,Bearings & Bushings,C,X
+MM-1005,2026-06-07,59,283.31,48,Bearings & Bushings,C,X
+MM-1005,2026-06-14,46,224.53,49,Bearings & Bushings,C,X
+MM-1005,2026-06-21,32,160.03,50,Bearings & Bushings,C,X
+MM-1005,2026-06-28,74,362.23,51,Bearings & Bushings,C,X
+MM-1005,2026-07-05,103,510.65,52,Bearings & Bushings,C,X
+MM-1006,2026-05-03,106,728.3,1,Bearings & Bushings,C,X
+MM-1006,2026-05-10,118,782.37,2,Bearings & Bushings,C,X
+MM-1006,2026-05-17,196,1285.15,3,Bearings & Bushings,C,X
+MM-1006,2026-05-24,194,1299.85,4,Bearings & Bushings,C,X
+MM-1006,2026-05-31,188,1298.51,5,Bearings & Bushings,C,X
+MM-1006,2026-06-07,130,867.98,6,Bearings & Bushings,C,X
+MM-1006,2026-06-14,252,1709.27,7,Bearings & Bushings,C,X
+MM-1006,2026-06-21,106,719.87,8,Bearings & Bushings,C,X
+MM-1006,2026-06-28,126,848.85,9,Bearings & Bushings,C,X
+MM-1006,2026-07-05,190,1273.05,10,Bearings & Bushings,C,X
+MM-1007,2025-07-13,74,377.06,1,Bearings & Bushings,B,X
+MM-1007,2025-07-20,88,425.98,2,Bearings & Bushings,B,X
+MM-1007,2025-07-27,103,522.56,3,Bearings & Bushings,B,X
+MM-1007,2025-08-03,98,477.39,4,Bearings & Bushings,B,X
+MM-1007,2025-08-10,92,456.92,5,Bearings & Bushings,B,X
+MM-1007,2025-08-17,104,508.39,6,Bearings & Bushings,B,X
+MM-1007,2025-08-24,116,574.72,7,Bearings & Bushings,B,X
+MM-1007,2025-08-31,122,610.66,8,Bearings & Bushings,B,X
+MM-1007,2025-09-07,86,416.6,9,Bearings & Bushings,B,X
+MM-1007,2025-09-14,109,533.98,10,Bearings & Bushings,B,X
+MM-1007,2025-09-21,105,532.57,11,Bearings & Bushings,B,X
+MM-1007,2025-09-28,105,535.94,12,Bearings & Bushings,B,X
+MM-1007,2025-10-05,85,433.06,13,Bearings & Bushings,B,X
+MM-1007,2025-10-12,82,397.88,14,Bearings & Bushings,B,X
+MM-1007,2025-10-19,103,512.5,15,Bearings & Bushings,B,X
+MM-1007,2025-10-26,60,303.77,16,Bearings & Bushings,B,X
+MM-1007,2025-11-02,74,367.97,17,Bearings & Bushings,B,X
+MM-1007,2025-11-09,75,366.49,18,Bearings & Bushings,B,X
+MM-1007,2025-11-16,74,374.79,19,Bearings & Bushings,B,X
+MM-1007,2025-11-23,70,352.1,20,Bearings & Bushings,B,X
+MM-1007,2025-11-30,80,393.73,21,Bearings & Bushings,B,X
+MM-1007,2025-12-07,80,402.99,22,Bearings & Bushings,B,X
+MM-1007,2025-12-14,77,375.2,23,Bearings & Bushings,B,X
+MM-1007,2025-12-21,75,363.53,24,Bearings & Bushings,B,X
+MM-1007,2025-12-28,82,396.97,25,Bearings & Bushings,B,X
+MM-1007,2026-01-04,89,450.62,26,Bearings & Bushings,B,X
+MM-1007,2026-01-11,84,414.48,27,Bearings & Bushings,B,X
+MM-1007,2026-01-18,103,503.07,28,Bearings & Bushings,B,X
+MM-1007,2026-01-25,112,567.23,29,Bearings & Bushings,B,X
+MM-1007,2026-02-01,121,601.27,30,Bearings & Bushings,B,X
+MM-1007,2026-02-08,123,600.74,31,Bearings & Bushings,B,X
+MM-1007,2026-02-15,104,529.46,32,Bearings & Bushings,B,X
+MM-1007,2026-02-22,110,554.68,33,Bearings & Bushings,B,X
+MM-1007,2026-03-01,106,525.46,34,Bearings & Bushings,B,X
+MM-1007,2026-03-08,105,521.94,35,Bearings & Bushings,B,X
+MM-1007,2026-03-15,102,494.74,36,Bearings & Bushings,B,X
+MM-1007,2026-03-22,103,524.74,37,Bearings & Bushings,B,X
+MM-1007,2026-03-29,113,575.72,38,Bearings & Bushings,B,X
+MM-1007,2026-04-05,98,487.67,39,Bearings & Bushings,B,X
+MM-1007,2026-04-12,78,381.15,40,Bearings & Bushings,B,X
+MM-1007,2026-04-19,96,465.27,41,Bearings & Bushings,B,X
+MM-1007,2026-04-26,85,417.09,42,Bearings & Bushings,B,X
+MM-1007,2026-05-03,84,415.77,43,Bearings & Bushings,B,X
+MM-1007,2026-05-10,79,392.59,44,Bearings & Bushings,B,X
+MM-1007,2026-05-17,77,393.12,45,Bearings & Bushings,B,X
+MM-1007,2026-05-24,77,387.46,46,Bearings & Bushings,B,X
+MM-1007,2026-05-31,58,281.69,47,Bearings & Bushings,B,X
+MM-1007,2026-06-07,78,383.2,48,Bearings & Bushings,B,X
+MM-1007,2026-06-14,69,339.0,49,Bearings & Bushings,B,X
+MM-1007,2026-06-21,74,369.74,50,Bearings & Bushings,B,X
+MM-1007,2026-06-28,82,413.89,51,Bearings & Bushings,B,X
+MM-1007,2026-07-05,102,518.78,52,Bearings & Bushings,B,X
+MM-1008,2025-07-13,97,734.83,1,Bearings & Bushings,B,Y
+MM-1008,2025-07-20,141,1072.56,2,Bearings & Bushings,B,Y
+MM-1008,2025-07-27,106,831.23,3,Bearings & Bushings,B,Y
+MM-1008,2025-08-03,129,1029.02,4,Bearings & Bushings,B,Y
+MM-1008,2025-08-10,87,686.05,5,Bearings & Bushings,B,Y
+MM-1008,2025-08-17,169,1327.44,6,Bearings & Bushings,B,Y
+MM-1008,2025-08-24,74,574.78,7,Bearings & Bushings,B,Y
+MM-1008,2025-08-31,146,1125.16,8,Bearings & Bushings,B,Y
+MM-1008,2025-09-07,135,1061.52,9,Bearings & Bushings,B,Y
+MM-1008,2025-09-14,137,1036.46,10,Bearings & Bushings,B,Y
+MM-1008,2025-09-21,69,549.46,11,Bearings & Bushings,B,Y
+MM-1008,2025-09-28,103,809.03,12,Bearings & Bushings,B,Y
+MM-1008,2025-10-05,135,1078.5,13,Bearings & Bushings,B,Y
+MM-1008,2025-10-12,155,1223.16,14,Bearings & Bushings,B,Y
+MM-1008,2025-10-19,91,710.61,15,Bearings & Bushings,B,Y
+MM-1008,2025-10-26,109,848.47,16,Bearings & Bushings,B,Y
+MM-1008,2025-11-02,87,673.58,17,Bearings & Bushings,B,Y
+MM-1008,2025-11-09,78,601.1,18,Bearings & Bushings,B,Y
+MM-1008,2025-11-16,67,519.39,19,Bearings & Bushings,B,Y
+MM-1008,2025-11-23,75,569.21,20,Bearings & Bushings,B,Y
+MM-1008,2025-11-30,89,698.88,21,Bearings & Bushings,B,Y
+MM-1008,2025-12-07,93,702.69,22,Bearings & Bushings,B,Y
+MM-1008,2025-12-14,49,374.31,23,Bearings & Bushings,B,Y
+MM-1008,2025-12-21,69,548.44,24,Bearings & Bushings,B,Y
+MM-1008,2025-12-28,59,463.64,25,Bearings & Bushings,B,Y
+MM-1008,2026-01-04,93,713.78,26,Bearings & Bushings,B,Y
+MM-1008,2026-01-11,87,668.07,27,Bearings & Bushings,B,Y
+MM-1008,2026-01-18,113,900.78,28,Bearings & Bushings,B,Y
+MM-1008,2026-01-25,121,943.76,29,Bearings & Bushings,B,Y
+MM-1008,2026-02-01,41,327.65,30,Bearings & Bushings,B,Y
+MM-1008,2026-02-08,40,306.63,31,Bearings & Bushings,B,Y
+MM-1008,2026-02-15,117,900.46,32,Bearings & Bushings,B,Y
+MM-1008,2026-02-22,161,1245.04,33,Bearings & Bushings,B,Y
+MM-1008,2026-03-01,100,755.74,34,Bearings & Bushings,B,Y
+MM-1008,2026-03-08,98,779.6,35,Bearings & Bushings,B,Y
+MM-1008,2026-03-15,147,1139.81,36,Bearings & Bushings,B,Y
+MM-1008,2026-03-22,136,1080.55,37,Bearings & Bushings,B,Y
+MM-1008,2026-03-29,74,577.26,38,Bearings & Bushings,B,Y
+MM-1008,2026-04-05,119,933.16,39,Bearings & Bushings,B,Y
+MM-1008,2026-04-12,72,551.56,40,Bearings & Bushings,B,Y
+MM-1008,2026-04-19,73,582.38,41,Bearings & Bushings,B,Y
+MM-1008,2026-04-26,58,464.19,42,Bearings & Bushings,B,Y
+MM-1008,2026-05-03,48,379.37,43,Bearings & Bushings,B,Y
+MM-1008,2026-05-10,75,582.82,44,Bearings & Bushings,B,Y
+MM-1008,2026-05-17,41,314.01,45,Bearings & Bushings,B,Y
+MM-1008,2026-05-24,72,553.08,46,Bearings & Bushings,B,Y
+MM-1008,2026-05-31,71,555.23,47,Bearings & Bushings,B,Y
+MM-1008,2026-06-07,66,504.82,48,Bearings & Bushings,B,Y
+MM-1008,2026-06-14,62,492.8,49,Bearings & Bushings,B,Y
+MM-1008,2026-06-21,60,453.01,50,Bearings & Bushings,B,Y
+MM-1008,2026-06-28,54,427.62,51,Bearings & Bushings,B,Y
+MM-1008,2026-07-05,120,913.34,52,Bearings & Bushings,B,Y
+MM-1009,2025-07-13,155,1359.97,1,Bearings & Bushings,A,X
+MM-1009,2025-07-20,213,1922.18,2,Bearings & Bushings,A,X
+MM-1009,2025-07-27,181,1668.55,3,Bearings & Bushings,A,X
+MM-1009,2025-08-03,209,1831.97,4,Bearings & Bushings,A,X
+MM-1009,2025-08-10,221,1952.91,5,Bearings & Bushings,A,X
+MM-1009,2025-08-17,218,1972.44,6,Bearings & Bushings,A,X
+MM-1009,2025-08-24,181,1654.12,7,Bearings & Bushings,A,X
+MM-1009,2025-08-31,235,2095.93,8,Bearings & Bushings,A,X
+MM-1009,2025-09-07,200,1792.08,9,Bearings & Bushings,A,X
+MM-1009,2025-09-14,231,2088.72,10,Bearings & Bushings,A,X
+MM-1009,2025-09-21,188,1734.96,11,Bearings & Bushings,A,X
+MM-1009,2025-09-28,194,1696.02,12,Bearings & Bushings,A,X
+MM-1009,2025-10-05,197,1815.6,13,Bearings & Bushings,A,X
+MM-1009,2025-10-12,202,1805.71,14,Bearings & Bushings,A,X
+MM-1009,2025-10-19,178,1551.95,15,Bearings & Bushings,A,X
+MM-1009,2025-10-26,165,1465.39,16,Bearings & Bushings,A,X
+MM-1009,2025-11-02,159,1453.03,17,Bearings & Bushings,A,X
+MM-1009,2025-11-09,127,1132.23,18,Bearings & Bushings,A,X
+MM-1009,2025-11-16,149,1354.97,19,Bearings & Bushings,A,X
+MM-1009,2025-11-23,129,1155.23,20,Bearings & Bushings,A,X
+MM-1009,2025-11-30,129,1131.14,21,Bearings & Bushings,A,X
+MM-1009,2025-12-07,137,1197.77,22,Bearings & Bushings,A,X
+MM-1009,2025-12-14,135,1212.06,23,Bearings & Bushings,A,X
+MM-1009,2025-12-21,130,1133.55,24,Bearings & Bushings,A,X
+MM-1009,2025-12-28,157,1401.34,25,Bearings & Bushings,A,X
+MM-1009,2026-01-04,162,1411.01,26,Bearings & Bushings,A,X
+MM-1009,2026-01-11,172,1571.0,27,Bearings & Bushings,A,X
+MM-1009,2026-01-18,186,1631.25,28,Bearings & Bushings,A,X
+MM-1009,2026-01-25,149,1360.92,29,Bearings & Bushings,A,X
+MM-1009,2026-02-01,201,1835.45,30,Bearings & Bushings,A,X
+MM-1009,2026-02-08,251,2234.72,31,Bearings & Bushings,A,X
+MM-1009,2026-02-15,254,2242.72,32,Bearings & Bushings,A,X
+MM-1009,2026-02-22,224,2007.54,33,Bearings & Bushings,A,X
+MM-1009,2026-03-01,223,1993.85,34,Bearings & Bushings,A,X
+MM-1009,2026-03-08,159,1400.64,35,Bearings & Bushings,A,X
+MM-1009,2026-03-15,202,1837.23,36,Bearings & Bushings,A,X
+MM-1009,2026-03-22,226,1974.66,37,Bearings & Bushings,A,X
+MM-1009,2026-03-29,191,1678.02,38,Bearings & Bushings,A,X
+MM-1009,2026-04-05,214,1905.76,39,Bearings & Bushings,A,X
+MM-1009,2026-04-12,200,1752.99,40,Bearings & Bushings,A,X
+MM-1009,2026-04-19,158,1411.33,41,Bearings & Bushings,A,X
+MM-1009,2026-04-26,161,1475.02,42,Bearings & Bushings,A,X
+MM-1009,2026-05-03,177,1621.4,43,Bearings & Bushings,A,X
+MM-1009,2026-05-10,119,1048.38,44,Bearings & Bushings,A,X
+MM-1009,2026-05-17,132,1167.75,45,Bearings & Bushings,A,X
+MM-1009,2026-05-24,111,998.52,46,Bearings & Bushings,A,X
+MM-1009,2026-05-31,122,1114.67,47,Bearings & Bushings,A,X
+MM-1009,2026-06-07,169,1471.23,48,Bearings & Bushings,A,X
+MM-1009,2026-06-14,138,1244.01,49,Bearings & Bushings,A,X
+MM-1009,2026-06-21,117,1033.24,50,Bearings & Bushings,A,X
+MM-1009,2026-06-28,141,1282.91,51,Bearings & Bushings,A,X
+MM-1009,2026-07-05,138,1241.02,52,Bearings & Bushings,A,X
+MM-1010,2025-07-13,104,2927.1,1,Electric Motors & Drives,A,X
+MM-1010,2025-07-20,104,2809.69,2,Electric Motors & Drives,A,X
+MM-1010,2025-07-27,83,2366.27,3,Electric Motors & Drives,A,X
+MM-1010,2025-08-03,106,2894.0,4,Electric Motors & Drives,A,X
+MM-1010,2025-08-10,102,2835.58,5,Electric Motors & Drives,A,X
+MM-1010,2025-08-17,118,3372.18,6,Electric Motors & Drives,A,X
+MM-1010,2025-08-24,115,3148.02,7,Electric Motors & Drives,A,X
+MM-1010,2025-08-31,131,3581.69,8,Electric Motors & Drives,A,X
+MM-1010,2025-09-07,94,2572.99,9,Electric Motors & Drives,A,X
+MM-1010,2025-09-14,91,2489.79,10,Electric Motors & Drives,A,X
+MM-1010,2025-09-21,97,2648.96,11,Electric Motors & Drives,A,X
+MM-1010,2025-09-28,100,2845.2,12,Electric Motors & Drives,A,X
+MM-1010,2025-10-05,91,2513.18,13,Electric Motors & Drives,A,X
+MM-1010,2025-10-12,86,2374.6,14,Electric Motors & Drives,A,X
+MM-1010,2025-10-19,98,2747.39,15,Electric Motors & Drives,A,X
+MM-1010,2025-10-26,87,2479.41,16,Electric Motors & Drives,A,X
+MM-1010,2025-11-02,82,2228.87,17,Electric Motors & Drives,A,X
+MM-1010,2025-11-09,74,2013.33,18,Electric Motors & Drives,A,X
+MM-1010,2025-11-16,64,1741.97,19,Electric Motors & Drives,A,X
+MM-1010,2025-11-23,101,2855.76,20,Electric Motors & Drives,A,X
+MM-1010,2025-11-30,101,2817.25,21,Electric Motors & Drives,A,X
+MM-1010,2025-12-07,96,2600.48,22,Electric Motors & Drives,A,X
+MM-1010,2025-12-14,95,2617.8,23,Electric Motors & Drives,A,X
+MM-1010,2025-12-21,85,2378.17,24,Electric Motors & Drives,A,X
+MM-1010,2025-12-28,100,2729.91,25,Electric Motors & Drives,A,X
+MM-1010,2026-01-04,83,2311.36,26,Electric Motors & Drives,A,X
+MM-1010,2026-01-11,100,2767.88,27,Electric Motors & Drives,A,X
+MM-1010,2026-01-18,92,2505.02,28,Electric Motors & Drives,A,X
+MM-1010,2026-01-25,112,3061.78,29,Electric Motors & Drives,A,X
+MM-1010,2026-02-01,127,3614.65,30,Electric Motors & Drives,A,X
+MM-1010,2026-02-08,96,2650.93,31,Electric Motors & Drives,A,X
+MM-1010,2026-02-15,104,2884.5,32,Electric Motors & Drives,A,X
+MM-1010,2026-02-22,113,3227.63,33,Electric Motors & Drives,A,X
+MM-1010,2026-03-01,88,2434.84,34,Electric Motors & Drives,A,X
+MM-1010,2026-03-08,91,2526.91,35,Electric Motors & Drives,A,X
+MM-1010,2026-03-15,131,3639.99,36,Electric Motors & Drives,A,X
+MM-1010,2026-03-22,113,3157.32,37,Electric Motors & Drives,A,X
+MM-1010,2026-03-29,99,2731.63,38,Electric Motors & Drives,A,X
+MM-1010,2026-04-05,104,2825.95,39,Electric Motors & Drives,A,X
+MM-1010,2026-04-12,96,2709.39,40,Electric Motors & Drives,A,X
+MM-1010,2026-04-19,101,2764.67,41,Electric Motors & Drives,A,X
+MM-1010,2026-04-26,92,2601.48,42,Electric Motors & Drives,A,X
+MM-1010,2026-05-03,94,2669.23,43,Electric Motors & Drives,A,X
+MM-1010,2026-05-10,101,2829.29,44,Electric Motors & Drives,A,X
+MM-1010,2026-05-17,99,2683.13,45,Electric Motors & Drives,A,X
+MM-1010,2026-05-24,108,2988.4,46,Electric Motors & Drives,A,X
+MM-1010,2026-05-31,96,2686.27,47,Electric Motors & Drives,A,X
+MM-1010,2026-06-07,93,2518.34,48,Electric Motors & Drives,A,X
+MM-1010,2026-06-14,112,3130.93,49,Electric Motors & Drives,A,X
+MM-1010,2026-06-21,94,2656.14,50,Electric Motors & Drives,A,X
+MM-1010,2026-06-28,73,2032.61,51,Electric Motors & Drives,A,X
+MM-1010,2026-07-05,111,2999.62,52,Electric Motors & Drives,A,X
+MM-1011,2026-02-15,254,8018.51,1,Electric Motors & Drives,A,X
+MM-1011,2026-02-22,222,7223.43,2,Electric Motors & Drives,A,X
+MM-1011,2026-03-01,175,5614.01,3,Electric Motors & Drives,A,X
+MM-1011,2026-03-08,259,8521.19,4,Electric Motors & Drives,A,X
+MM-1011,2026-03-15,214,6721.74,5,Electric Motors & Drives,A,X
+MM-1011,2026-03-22,203,6645.46,6,Electric Motors & Drives,A,X
+MM-1011,2026-03-29,169,5510.62,7,Electric Motors & Drives,A,X
+MM-1011,2026-04-05,241,7744.22,8,Electric Motors & Drives,A,X
+MM-1011,2026-04-12,151,4864.6,9,Electric Motors & Drives,A,X
+MM-1011,2026-04-19,241,7654.23,10,Electric Motors & Drives,A,X
+MM-1011,2026-04-26,196,6130.31,11,Electric Motors & Drives,A,X
+MM-1011,2026-05-03,220,7184.9,12,Electric Motors & Drives,A,X
+MM-1011,2026-05-10,206,6516.43,13,Electric Motors & Drives,A,X
+MM-1011,2026-05-17,237,7369.69,14,Electric Motors & Drives,A,X
+MM-1011,2026-05-24,203,6483.87,15,Electric Motors & Drives,A,X
+MM-1011,2026-05-31,223,6994.06,16,Electric Motors & Drives,A,X
+MM-1011,2026-06-07,184,5846.28,17,Electric Motors & Drives,A,X
+MM-1011,2026-06-14,164,5104.78,18,Electric Motors & Drives,A,X
+MM-1011,2026-06-21,231,7404.18,19,Electric Motors & Drives,A,X
+MM-1011,2026-06-28,173,5417.99,20,Electric Motors & Drives,A,X
+MM-1011,2026-07-05,240,7610.56,21,Electric Motors & Drives,A,X
+MM-1012,2025-07-13,77,2616.7,1,Electric Motors & Drives,A,Y
+MM-1012,2025-07-20,52,1853.12,2,Electric Motors & Drives,A,Y
+MM-1012,2025-07-27,33,1145.48,3,Electric Motors & Drives,A,Y
+MM-1012,2025-08-03,51,1728.35,4,Electric Motors & Drives,A,Y
+MM-1012,2025-08-10,27,969.09,5,Electric Motors & Drives,A,Y
+MM-1012,2025-08-17,105,3559.36,6,Electric Motors & Drives,A,Y
+MM-1012,2025-08-24,22,757.8,7,Electric Motors & Drives,A,Y
+MM-1012,2025-08-31,39,1322.43,8,Electric Motors & Drives,A,Y
+MM-1012,2025-09-07,57,2027.25,9,Electric Motors & Drives,A,Y
+MM-1012,2025-09-14,51,1813.56,10,Electric Motors & Drives,A,Y
+MM-1012,2025-09-21,52,1816.52,11,Electric Motors & Drives,A,Y
+MM-1012,2025-09-28,26,910.03,12,Electric Motors & Drives,A,Y
+MM-1012,2025-10-05,31,1077.09,13,Electric Motors & Drives,A,Y
+MM-1012,2025-10-12,56,2007.06,14,Electric Motors & Drives,A,Y
+MM-1012,2025-10-19,52,1778.93,15,Electric Motors & Drives,A,Y
+MM-1012,2025-10-26,40,1433.25,16,Electric Motors & Drives,A,Y
+MM-1012,2025-11-02,57,2030.81,17,Electric Motors & Drives,A,Y
+MM-1012,2025-11-09,48,1706.41,18,Electric Motors & Drives,A,Y
+MM-1012,2025-11-16,44,1565.33,19,Electric Motors & Drives,A,Y
+MM-1012,2025-11-30,35,1223.44,20,Electric Motors & Drives,A,Y
+MM-1012,2025-12-07,32,1142.22,21,Electric Motors & Drives,A,Y
+MM-1012,2025-12-14,58,2046.73,22,Electric Motors & Drives,A,Y
+MM-1012,2025-12-28,29,1002.55,23,Electric Motors & Drives,A,Y
+MM-1012,2026-01-04,36,1224.07,24,Electric Motors & Drives,A,Y
+MM-1012,2026-01-11,11,389.9,25,Electric Motors & Drives,A,Y
+MM-1012,2026-01-18,15,536.41,26,Electric Motors & Drives,A,Y
+MM-1012,2026-01-25,77,2609.36,27,Electric Motors & Drives,A,Y
+MM-1012,2026-02-01,53,1814.97,28,Electric Motors & Drives,A,Y
+MM-1012,2026-02-08,93,3187.26,29,Electric Motors & Drives,A,Y
+MM-1012,2026-02-15,38,1359.35,30,Electric Motors & Drives,A,Y
+MM-1012,2026-02-22,4,137.23,31,Electric Motors & Drives,A,Y
+MM-1012,2026-03-01,34,1160.61,32,Electric Motors & Drives,A,Y
+MM-1012,2026-03-08,29,992.45,33,Electric Motors & Drives,A,Y
+MM-1012,2026-03-15,62,2214.81,34,Electric Motors & Drives,A,Y
+MM-1012,2026-03-22,59,2072.29,35,Electric Motors & Drives,A,Y
+MM-1012,2026-03-29,53,1880.9,36,Electric Motors & Drives,A,Y
+MM-1012,2026-04-05,93,3312.81,37,Electric Motors & Drives,A,Y
+MM-1012,2026-04-12,66,2279.76,38,Electric Motors & Drives,A,Y
+MM-1012,2026-04-19,15,514.3,39,Electric Motors & Drives,A,Y
+MM-1012,2026-04-26,54,1932.78,40,Electric Motors & Drives,A,Y
+MM-1012,2026-05-03,32,1133.64,41,Electric Motors & Drives,A,Y
+MM-1012,2026-05-10,26,889.11,42,Electric Motors & Drives,A,Y
+MM-1012,2026-05-17,56,1970.1,43,Electric Motors & Drives,A,Y
+MM-1012,2026-05-24,12,416.68,44,Electric Motors & Drives,A,Y
+MM-1012,2026-05-31,46,1624.91,45,Electric Motors & Drives,A,Y
+MM-1012,2026-06-07,43,1538.25,46,Electric Motors & Drives,A,Y
+MM-1012,2026-06-14,12,408.46,47,Electric Motors & Drives,A,Y
+MM-1012,2026-06-21,0,0.0,48,Electric Motors & Drives,A,Y
+MM-1012,2026-06-28,24,861.48,49,Electric Motors & Drives,A,Y
+MM-1012,2026-07-05,7,243.7,50,Electric Motors & Drives,A,Y
+MM-1013,2025-07-13,100,2370.35,1,Electric Motors & Drives,A,X
+MM-1013,2025-07-20,133,3233.85,2,Electric Motors & Drives,A,X
+MM-1013,2025-07-27,103,2505.4,3,Electric Motors & Drives,A,X
+MM-1013,2025-08-03,105,2607.25,4,Electric Motors & Drives,A,X
+MM-1013,2025-08-10,109,2700.13,5,Electric Motors & Drives,A,X
+MM-1013,2025-08-17,132,3242.13,6,Electric Motors & Drives,A,X
+MM-1013,2025-08-24,144,3535.43,7,Electric Motors & Drives,A,X
+MM-1013,2025-08-31,138,3394.46,8,Electric Motors & Drives,A,X
+MM-1013,2025-09-07,126,3154.18,9,Electric Motors & Drives,A,X
+MM-1013,2025-09-14,101,2449.3,10,Electric Motors & Drives,A,X
+MM-1013,2025-09-21,124,3021.68,11,Electric Motors & Drives,A,X
+MM-1013,2025-09-28,92,2235.7,12,Electric Motors & Drives,A,X
+MM-1013,2025-10-05,89,2199.94,13,Electric Motors & Drives,A,X
+MM-1013,2025-10-12,107,2559.38,14,Electric Motors & Drives,A,X
+MM-1013,2025-10-19,103,2546.31,15,Electric Motors & Drives,A,X
+MM-1013,2025-10-26,99,2378.73,16,Electric Motors & Drives,A,X
+MM-1013,2025-11-02,124,3103.29,17,Electric Motors & Drives,A,X
+MM-1013,2025-11-09,93,2224.38,18,Electric Motors & Drives,A,X
+MM-1013,2025-11-16,102,2489.1,19,Electric Motors & Drives,A,X
+MM-1013,2025-11-23,98,2424.6,20,Electric Motors & Drives,A,X
+MM-1013,2025-11-30,106,2531.84,21,Electric Motors & Drives,A,X
+MM-1013,2025-12-07,108,2627.47,22,Electric Motors & Drives,A,X
+MM-1013,2025-12-14,103,2474.97,23,Electric Motors & Drives,A,X
+MM-1013,2025-12-21,94,2238.63,24,Electric Motors & Drives,A,X
+MM-1013,2025-12-28,96,2367.33,25,Electric Motors & Drives,A,X
+MM-1013,2026-01-04,102,2481.91,26,Electric Motors & Drives,A,X
+MM-1013,2026-01-11,113,2793.64,27,Electric Motors & Drives,A,X
+MM-1013,2026-01-18,121,2938.41,28,Electric Motors & Drives,A,X
+MM-1013,2026-01-25,107,2565.98,29,Electric Motors & Drives,A,X
+MM-1013,2026-02-01,135,3224.74,30,Electric Motors & Drives,A,X
+MM-1013,2026-02-08,116,2807.46,31,Electric Motors & Drives,A,X
+MM-1013,2026-02-15,90,2225.52,32,Electric Motors & Drives,A,X
+MM-1013,2026-02-22,150,3604.19,33,Electric Motors & Drives,A,X
+MM-1013,2026-03-01,123,2985.28,34,Electric Motors & Drives,A,X
+MM-1013,2026-03-08,134,3238.64,35,Electric Motors & Drives,A,X
+MM-1013,2026-03-15,96,2375.48,36,Electric Motors & Drives,A,X
+MM-1013,2026-03-22,109,2654.91,37,Electric Motors & Drives,A,X
+MM-1013,2026-03-29,113,2813.32,38,Electric Motors & Drives,A,X
+MM-1013,2026-04-05,98,2403.54,39,Electric Motors & Drives,A,X
+MM-1013,2026-04-12,110,2745.29,40,Electric Motors & Drives,A,X
+MM-1013,2026-04-19,105,2551.8,41,Electric Motors & Drives,A,X
+MM-1013,2026-04-26,124,2932.89,42,Electric Motors & Drives,A,X
+MM-1013,2026-05-03,79,1923.78,43,Electric Motors & Drives,A,X
+MM-1013,2026-05-10,112,2739.48,44,Electric Motors & Drives,A,X
+MM-1013,2026-05-17,116,2882.83,45,Electric Motors & Drives,A,X
+MM-1013,2026-05-24,129,3090.62,46,Electric Motors & Drives,A,X
+MM-1013,2026-05-31,113,2810.13,47,Electric Motors & Drives,A,X
+MM-1013,2026-06-07,93,2316.17,48,Electric Motors & Drives,A,X
+MM-1013,2026-06-14,103,2481.13,49,Electric Motors & Drives,A,X
+MM-1013,2026-06-21,111,2666.33,50,Electric Motors & Drives,A,X
+MM-1013,2026-06-28,129,3225.18,51,Electric Motors & Drives,A,X
+MM-1013,2026-07-05,89,2175.45,52,Electric Motors & Drives,A,X
+MM-1014,2025-07-13,70,2922.87,1,Electric Motors & Drives,A,X
+MM-1014,2025-07-20,64,2717.24,2,Electric Motors & Drives,A,X
+MM-1014,2025-07-27,71,2923.93,3,Electric Motors & Drives,A,X
+MM-1014,2025-08-03,86,3561.01,4,Electric Motors & Drives,A,X
+MM-1014,2025-08-10,76,3123.06,5,Electric Motors & Drives,A,X
+MM-1014,2025-08-17,72,3081.06,6,Electric Motors & Drives,A,X
+MM-1014,2025-08-24,71,2941.96,7,Electric Motors & Drives,A,X
+MM-1014,2025-08-31,69,2857.07,8,Electric Motors & Drives,A,X
+MM-1014,2025-09-07,86,3597.37,9,Electric Motors & Drives,A,X
+MM-1014,2025-09-14,79,3372.9,10,Electric Motors & Drives,A,X
+MM-1014,2025-09-21,81,3377.16,11,Electric Motors & Drives,A,X
+MM-1014,2025-09-28,64,2641.72,12,Electric Motors & Drives,A,X
+MM-1014,2025-10-05,76,3205.63,13,Electric Motors & Drives,A,X
+MM-1014,2025-10-12,55,2246.06,14,Electric Motors & Drives,A,X
+MM-1014,2025-10-19,84,3532.0,15,Electric Motors & Drives,A,X
+MM-1014,2025-10-26,77,3154.26,16,Electric Motors & Drives,A,X
+MM-1014,2025-11-02,70,2983.58,17,Electric Motors & Drives,A,X
+MM-1014,2025-11-09,51,2102.01,18,Electric Motors & Drives,A,X
+MM-1014,2025-11-16,62,2589.95,19,Electric Motors & Drives,A,X
+MM-1014,2025-11-23,58,2488.88,20,Electric Motors & Drives,A,X
+MM-1014,2025-11-30,68,2888.63,21,Electric Motors & Drives,A,X
+MM-1014,2025-12-07,73,3049.78,22,Electric Motors & Drives,A,X
+MM-1014,2025-12-14,73,3143.88,23,Electric Motors & Drives,A,X
+MM-1014,2025-12-21,84,3576.65,24,Electric Motors & Drives,A,X
+MM-1014,2025-12-28,71,2910.04,25,Electric Motors & Drives,A,X
+MM-1014,2026-01-04,84,3464.62,26,Electric Motors & Drives,A,X
+MM-1014,2026-01-11,71,2975.53,27,Electric Motors & Drives,A,X
+MM-1014,2026-01-18,79,3376.94,28,Electric Motors & Drives,A,X
+MM-1014,2026-01-25,74,3164.45,29,Electric Motors & Drives,A,X
+MM-1014,2026-02-01,79,3273.03,30,Electric Motors & Drives,A,X
+MM-1014,2026-02-08,77,3163.18,31,Electric Motors & Drives,A,X
+MM-1014,2026-02-15,71,2964.47,32,Electric Motors & Drives,A,X
+MM-1014,2026-02-22,105,4501.73,33,Electric Motors & Drives,A,X
+MM-1014,2026-03-01,81,3307.11,34,Electric Motors & Drives,A,X
+MM-1014,2026-03-08,83,3515.13,35,Electric Motors & Drives,A,X
+MM-1014,2026-03-15,84,3466.81,36,Electric Motors & Drives,A,X
+MM-1014,2026-03-22,78,3344.99,37,Electric Motors & Drives,A,X
+MM-1014,2026-03-29,54,2230.94,38,Electric Motors & Drives,A,X
+MM-1014,2026-04-05,77,3305.29,39,Electric Motors & Drives,A,X
+MM-1014,2026-04-12,62,2622.58,40,Electric Motors & Drives,A,X
+MM-1014,2026-04-19,73,2997.62,41,Electric Motors & Drives,A,X
+MM-1014,2026-04-26,73,3146.67,42,Electric Motors & Drives,A,X
+MM-1014,2026-05-03,55,2301.85,43,Electric Motors & Drives,A,X
+MM-1014,2026-05-10,69,2902.77,44,Electric Motors & Drives,A,X
+MM-1014,2026-05-17,56,2397.23,45,Electric Motors & Drives,A,X
+MM-1014,2026-05-24,48,1969.77,46,Electric Motors & Drives,A,X
+MM-1014,2026-05-31,56,2352.41,47,Electric Motors & Drives,A,X
+MM-1014,2026-06-07,67,2827.95,48,Electric Motors & Drives,A,X
+MM-1014,2026-06-14,67,2862.44,49,Electric Motors & Drives,A,X
+MM-1014,2026-06-21,65,2688.51,50,Electric Motors & Drives,A,X
+MM-1014,2026-06-28,74,3141.19,51,Electric Motors & Drives,A,X
+MM-1014,2026-07-05,69,2843.84,52,Electric Motors & Drives,A,X
+MM-1015,2025-07-13,454,5093.66,1,Sensors & Controls,A,Z
+MM-1015,2025-07-20,176,1989.2,2,Sensors & Controls,A,Z
+MM-1015,2025-07-27,353,3898.57,3,Sensors & Controls,A,Z
+MM-1015,2025-08-03,238,2754.87,4,Sensors & Controls,A,Z
+MM-1015,2025-08-10,255,2936.44,5,Sensors & Controls,A,Z
+MM-1015,2025-08-17,209,2434.01,6,Sensors & Controls,A,Z
+MM-1015,2025-08-24,244,2729.15,7,Sensors & Controls,A,Z
+MM-1015,2025-08-31,192,2152.17,8,Sensors & Controls,A,Z
+MM-1015,2025-09-07,368,4205.37,9,Sensors & Controls,A,Z
+MM-1015,2025-09-14,116,1275.65,10,Sensors & Controls,A,Z
+MM-1015,2025-09-21,5,57.32,11,Sensors & Controls,A,Z
+MM-1015,2025-09-28,134,1516.48,12,Sensors & Controls,A,Z
+MM-1015,2025-10-05,115,1289.95,13,Sensors & Controls,A,Z
+MM-1015,2025-10-12,122,1342.17,14,Sensors & Controls,A,Z
+MM-1015,2025-10-19,161,1871.2,15,Sensors & Controls,A,Z
+MM-1015,2025-10-26,110,1263.86,16,Sensors & Controls,A,Z
+MM-1015,2025-11-02,144,1665.94,17,Sensors & Controls,A,Z
+MM-1015,2025-11-09,101,1123.83,18,Sensors & Controls,A,Z
+MM-1015,2025-11-16,189,2175.33,19,Sensors & Controls,A,Z
+MM-1015,2025-11-23,375,4176.42,20,Sensors & Controls,A,Z
+MM-1015,2025-11-30,168,1954.08,21,Sensors & Controls,A,Z
+MM-1015,2025-12-07,103,1175.44,22,Sensors & Controls,A,Z
+MM-1015,2025-12-14,0,0.0,23,Sensors & Controls,A,Z
+MM-1015,2025-12-21,116,1324.18,24,Sensors & Controls,A,Z
+MM-1015,2025-12-28,291,3370.82,25,Sensors & Controls,A,Z
+MM-1015,2026-01-04,115,1290.05,26,Sensors & Controls,A,Z
+MM-1015,2026-01-11,279,3090.26,27,Sensors & Controls,A,Z
+MM-1015,2026-01-18,71,823.15,28,Sensors & Controls,A,Z
+MM-1015,2026-01-25,137,1535.22,29,Sensors & Controls,A,Z
+MM-1015,2026-02-01,321,3570.88,30,Sensors & Controls,A,Z
+MM-1015,2026-02-08,401,4435.85,31,Sensors & Controls,A,Z
+MM-1015,2026-02-15,139,1619.72,32,Sensors & Controls,A,Z
+MM-1015,2026-02-22,430,4760.28,33,Sensors & Controls,A,Z
+MM-1015,2026-03-01,97,1103.33,34,Sensors & Controls,A,Z
+MM-1015,2026-03-08,259,2954.91,35,Sensors & Controls,A,Z
+MM-1015,2026-03-15,229,2613.82,36,Sensors & Controls,A,Z
+MM-1015,2026-03-22,203,2327.29,37,Sensors & Controls,A,Z
+MM-1015,2026-03-29,151,1693.53,38,Sensors & Controls,A,Z
+MM-1015,2026-04-05,24,266.3,39,Sensors & Controls,A,Z
+MM-1015,2026-04-12,97,1082.27,40,Sensors & Controls,A,Z
+MM-1015,2026-04-19,146,1627.57,41,Sensors & Controls,A,Z
+MM-1015,2026-04-26,247,2767.55,42,Sensors & Controls,A,Z
+MM-1015,2026-05-03,254,2936.77,43,Sensors & Controls,A,Z
+MM-1015,2026-05-10,106,1219.0,44,Sensors & Controls,A,Z
+MM-1015,2026-05-17,112,1246.28,45,Sensors & Controls,A,Z
+MM-1015,2026-05-24,81,939.47,46,Sensors & Controls,A,Z
+MM-1015,2026-05-31,93,1057.11,47,Sensors & Controls,A,Z
+MM-1015,2026-06-07,285,3236.71,48,Sensors & Controls,A,Z
+MM-1015,2026-06-14,364,4147.76,49,Sensors & Controls,A,Z
+MM-1015,2026-06-21,60,664.33,50,Sensors & Controls,A,Z
+MM-1015,2026-06-28,45,514.74,51,Sensors & Controls,A,Z
+MM-1015,2026-07-05,120,1323.69,52,Sensors & Controls,A,Z
+MM-1016,2025-07-13,77,896.06,1,Sensors & Controls,B,Y
+MM-1016,2025-07-20,94,1095.03,2,Sensors & Controls,B,Y
+MM-1016,2025-07-27,68,779.92,3,Sensors & Controls,B,Y
+MM-1016,2025-08-03,150,1764.68,4,Sensors & Controls,B,Y
+MM-1016,2025-08-10,68,781.3,5,Sensors & Controls,B,Y
+MM-1016,2025-08-17,76,884.14,6,Sensors & Controls,B,Y
+MM-1016,2025-08-24,143,1641.75,7,Sensors & Controls,B,Y
+MM-1016,2025-08-31,31,364.57,8,Sensors & Controls,B,Y
+MM-1016,2025-09-07,138,1579.85,9,Sensors & Controls,B,Y
+MM-1016,2025-09-14,150,1715.4,10,Sensors & Controls,B,Y
+MM-1016,2025-09-21,121,1364.3,11,Sensors & Controls,B,Y
+MM-1016,2025-09-28,55,611.95,12,Sensors & Controls,B,Y
+MM-1016,2025-10-05,115,1340.36,13,Sensors & Controls,B,Y
+MM-1016,2025-10-12,46,512.81,14,Sensors & Controls,B,Y
+MM-1016,2025-10-19,91,1022.12,15,Sensors & Controls,B,Y
+MM-1016,2025-10-26,82,921.77,16,Sensors & Controls,B,Y
+MM-1016,2025-11-02,95,1078.29,17,Sensors & Controls,B,Y
+MM-1016,2025-11-09,86,981.23,18,Sensors & Controls,B,Y
+MM-1016,2025-11-16,96,1083.33,19,Sensors & Controls,B,Y
+MM-1016,2025-11-23,106,1215.84,20,Sensors & Controls,B,Y
+MM-1016,2025-11-30,94,1100.8,21,Sensors & Controls,B,Y
+MM-1016,2025-12-07,38,428.64,22,Sensors & Controls,B,Y
+MM-1016,2025-12-14,101,1141.12,23,Sensors & Controls,B,Y
+MM-1016,2025-12-21,100,1152.67,24,Sensors & Controls,B,Y
+MM-1016,2025-12-28,116,1369.66,25,Sensors & Controls,B,Y
+MM-1016,2026-01-04,113,1306.92,26,Sensors & Controls,B,Y
+MM-1016,2026-01-11,37,435.41,27,Sensors & Controls,B,Y
+MM-1016,2026-01-18,141,1620.04,28,Sensors & Controls,B,Y
+MM-1016,2026-01-25,77,872.76,29,Sensors & Controls,B,Y
+MM-1016,2026-02-01,134,1581.76,30,Sensors & Controls,B,Y
+MM-1016,2026-02-08,79,928.21,31,Sensors & Controls,B,Y
+MM-1016,2026-02-15,133,1504.38,32,Sensors & Controls,B,Y
+MM-1016,2026-02-22,72,828.18,33,Sensors & Controls,B,Y
+MM-1016,2026-03-01,127,1457.17,34,Sensors & Controls,B,Y
+MM-1016,2026-03-08,115,1311.79,35,Sensors & Controls,B,Y
+MM-1016,2026-03-15,154,1748.74,36,Sensors & Controls,B,Y
+MM-1016,2026-03-22,86,964.36,37,Sensors & Controls,B,Y
+MM-1016,2026-03-29,130,1522.46,38,Sensors & Controls,B,Y
+MM-1016,2026-04-05,61,688.25,39,Sensors & Controls,B,Y
+MM-1016,2026-04-12,99,1139.21,40,Sensors & Controls,B,Y
+MM-1016,2026-04-19,84,952.86,41,Sensors & Controls,B,Y
+MM-1016,2026-04-26,75,868.3,42,Sensors & Controls,B,Y
+MM-1016,2026-05-03,83,927.16,43,Sensors & Controls,B,Y
+MM-1016,2026-05-10,102,1175.68,44,Sensors & Controls,B,Y
+MM-1016,2026-05-17,84,983.64,45,Sensors & Controls,B,Y
+MM-1016,2026-05-24,98,1131.25,46,Sensors & Controls,B,Y
+MM-1016,2026-05-31,104,1188.79,47,Sensors & Controls,B,Y
+MM-1016,2026-06-07,125,1459.79,48,Sensors & Controls,B,Y
+MM-1016,2026-06-14,96,1068.81,49,Sensors & Controls,B,Y
+MM-1016,2026-06-21,84,986.83,50,Sensors & Controls,B,Y
+MM-1016,2026-06-28,81,909.56,51,Sensors & Controls,B,Y
+MM-1016,2026-07-05,117,1354.87,52,Sensors & Controls,B,Y
+MM-1017,2026-03-15,274,4599.65,1,Sensors & Controls,B,Y
+MM-1017,2026-03-22,316,5224.13,2,Sensors & Controls,B,Y
+MM-1017,2026-03-29,263,4381.83,3,Sensors & Controls,B,Y
+MM-1017,2026-04-05,182,2971.02,4,Sensors & Controls,B,Y
+MM-1017,2026-04-12,81,1373.38,5,Sensors & Controls,B,Y
+MM-1017,2026-04-19,135,2307.02,6,Sensors & Controls,B,Y
+MM-1017,2026-04-26,102,1736.4,7,Sensors & Controls,B,Y
+MM-1017,2026-05-03,245,4112.28,8,Sensors & Controls,B,Y
+MM-1017,2026-05-10,121,2002.96,9,Sensors & Controls,B,Y
+MM-1017,2026-05-17,166,2744.18,10,Sensors & Controls,B,Y
+MM-1017,2026-05-24,96,1605.43,11,Sensors & Controls,B,Y
+MM-1017,2026-05-31,156,2673.4,12,Sensors & Controls,B,Y
+MM-1017,2026-06-07,153,2525.84,13,Sensors & Controls,B,Y
+MM-1017,2026-06-14,222,3623.86,14,Sensors & Controls,B,Y
+MM-1017,2026-06-21,230,3971.14,15,Sensors & Controls,B,Y
+MM-1017,2026-06-28,203,3466.28,16,Sensors & Controls,B,Y
+MM-1017,2026-07-05,180,3099.49,17,Sensors & Controls,B,Y
+MM-1018,2025-07-13,290,2841.13,1,Sensors & Controls,A,Y
+MM-1018,2025-07-20,183,1788.27,2,Sensors & Controls,A,Y
+MM-1018,2025-07-27,212,2092.44,3,Sensors & Controls,A,Y
+MM-1018,2025-08-03,164,1617.72,4,Sensors & Controls,A,Y
+MM-1018,2025-08-10,106,1029.68,5,Sensors & Controls,A,Y
+MM-1018,2025-08-17,251,2414.71,6,Sensors & Controls,A,Y
+MM-1018,2025-08-24,212,2091.61,7,Sensors & Controls,A,Y
+MM-1018,2025-08-31,323,3081.47,8,Sensors & Controls,A,Y
+MM-1018,2025-09-07,123,1194.2,9,Sensors & Controls,A,Y
+MM-1018,2025-09-14,184,1815.47,10,Sensors & Controls,A,Y
+MM-1018,2025-09-21,143,1421.41,11,Sensors & Controls,A,Y
+MM-1018,2025-09-28,228,2265.26,12,Sensors & Controls,A,Y
+MM-1018,2025-10-05,175,1714.87,13,Sensors & Controls,A,Y
+MM-1018,2025-10-12,128,1227.35,14,Sensors & Controls,A,Y
+MM-1018,2025-10-19,124,1241.8,15,Sensors & Controls,A,Y
+MM-1018,2025-10-26,165,1565.8,16,Sensors & Controls,A,Y
+MM-1018,2025-11-02,137,1320.19,17,Sensors & Controls,A,Y
+MM-1018,2025-11-09,125,1214.45,18,Sensors & Controls,A,Y
+MM-1018,2025-11-16,166,1594.36,19,Sensors & Controls,A,Y
+MM-1018,2025-11-23,75,744.89,20,Sensors & Controls,A,Y
+MM-1018,2025-11-30,170,1688.11,21,Sensors & Controls,A,Y
+MM-1018,2025-12-07,206,2058.86,22,Sensors & Controls,A,Y
+MM-1018,2025-12-14,153,1454.38,23,Sensors & Controls,A,Y
+MM-1018,2025-12-21,182,1769.72,24,Sensors & Controls,A,Y
+MM-1018,2025-12-28,167,1591.05,25,Sensors & Controls,A,Y
+MM-1018,2026-01-04,149,1410.4,26,Sensors & Controls,A,Y
+MM-1018,2026-01-11,216,2056.26,27,Sensors & Controls,A,Y
+MM-1018,2026-01-18,185,1790.8,28,Sensors & Controls,A,Y
+MM-1018,2026-01-25,206,1977.88,29,Sensors & Controls,A,Y
+MM-1018,2026-02-01,237,2321.84,30,Sensors & Controls,A,Y
+MM-1018,2026-02-08,141,1384.39,31,Sensors & Controls,A,Y
+MM-1018,2026-02-15,104,982.4,32,Sensors & Controls,A,Y
+MM-1018,2026-02-22,357,3464.55,33,Sensors & Controls,A,Y
+MM-1018,2026-03-01,254,2517.43,34,Sensors & Controls,A,Y
+MM-1018,2026-03-08,241,2349.21,35,Sensors & Controls,A,Y
+MM-1018,2026-03-15,178,1682.25,36,Sensors & Controls,A,Y
+MM-1018,2026-03-22,239,2303.82,37,Sensors & Controls,A,Y
+MM-1018,2026-03-29,164,1557.45,38,Sensors & Controls,A,Y
+MM-1018,2026-04-05,231,2307.29,39,Sensors & Controls,A,Y
+MM-1018,2026-04-12,209,2045.94,40,Sensors & Controls,A,Y
+MM-1018,2026-04-19,190,1824.83,41,Sensors & Controls,A,Y
+MM-1018,2026-04-26,191,1873.19,42,Sensors & Controls,A,Y
+MM-1018,2026-05-03,140,1401.51,43,Sensors & Controls,A,Y
+MM-1018,2026-05-10,137,1328.61,44,Sensors & Controls,A,Y
+MM-1018,2026-05-17,174,1657.14,45,Sensors & Controls,A,Y
+MM-1018,2026-05-24,87,871.28,46,Sensors & Controls,A,Y
+MM-1018,2026-05-31,146,1416.53,47,Sensors & Controls,A,Y
+MM-1018,2026-06-07,207,1992.83,48,Sensors & Controls,A,Y
+MM-1018,2026-06-14,97,970.88,49,Sensors & Controls,A,Y
+MM-1018,2026-06-21,196,1864.85,50,Sensors & Controls,A,Y
+MM-1018,2026-06-28,179,1742.09,51,Sensors & Controls,A,Y
+MM-1018,2026-07-05,145,1404.39,52,Sensors & Controls,A,Y
+MM-1019,2025-07-13,201,1850.08,1,Sensors & Controls,A,Y
+MM-1019,2025-07-20,118,1049.11,2,Sensors & Controls,A,Y
+MM-1019,2025-07-27,48,429.62,3,Sensors & Controls,A,Y
+MM-1019,2025-08-03,192,1779.38,4,Sensors & Controls,A,Y
+MM-1019,2025-08-10,195,1736.01,5,Sensors & Controls,A,Y
+MM-1019,2025-08-17,205,1835.06,6,Sensors & Controls,A,Y
+MM-1019,2025-08-24,287,2613.8,7,Sensors & Controls,A,Y
+MM-1019,2025-08-31,308,2804.19,8,Sensors & Controls,A,Y
+MM-1019,2025-09-07,258,2304.39,9,Sensors & Controls,A,Y
+MM-1019,2025-09-14,283,2582.99,10,Sensors & Controls,A,Y
+MM-1019,2025-09-21,180,1608.3,11,Sensors & Controls,A,Y
+MM-1019,2025-09-28,162,1465.92,12,Sensors & Controls,A,Y
+MM-1019,2025-10-05,261,2408.06,13,Sensors & Controls,A,Y
+MM-1019,2025-10-12,148,1296.59,14,Sensors & Controls,A,Y
+MM-1019,2025-10-19,139,1224.13,15,Sensors & Controls,A,Y
+MM-1019,2025-10-26,400,3657.44,16,Sensors & Controls,A,Y
+MM-1019,2025-11-02,215,1972.83,17,Sensors & Controls,A,Y
+MM-1019,2025-11-09,179,1623.1,18,Sensors & Controls,A,Y
+MM-1019,2025-11-16,171,1560.45,19,Sensors & Controls,A,Y
+MM-1019,2025-11-23,118,1053.07,20,Sensors & Controls,A,Y
+MM-1019,2025-11-30,226,2038.6,21,Sensors & Controls,A,Y
+MM-1019,2025-12-07,192,1696.49,22,Sensors & Controls,A,Y
+MM-1019,2025-12-14,278,2431.76,23,Sensors & Controls,A,Y
+MM-1019,2025-12-21,256,2273.98,24,Sensors & Controls,A,Y
+MM-1019,2025-12-28,204,1794.84,25,Sensors & Controls,A,Y
+MM-1019,2026-01-04,95,844.34,26,Sensors & Controls,A,Y
+MM-1019,2026-01-11,245,2166.78,27,Sensors & Controls,A,Y
+MM-1019,2026-01-18,246,2201.19,28,Sensors & Controls,A,Y
+MM-1019,2026-01-25,90,802.53,29,Sensors & Controls,A,Y
+MM-1019,2026-02-01,293,2564.72,30,Sensors & Controls,A,Y
+MM-1019,2026-02-08,175,1601.03,31,Sensors & Controls,A,Y
+MM-1019,2026-02-15,354,3271.55,32,Sensors & Controls,A,Y
+MM-1019,2026-02-22,266,2401.24,33,Sensors & Controls,A,Y
+MM-1019,2026-03-01,224,2051.41,34,Sensors & Controls,A,Y
+MM-1019,2026-03-08,292,2685.27,35,Sensors & Controls,A,Y
+MM-1019,2026-03-15,285,2557.74,36,Sensors & Controls,A,Y
+MM-1019,2026-03-22,279,2560.0,37,Sensors & Controls,A,Y
+MM-1019,2026-03-29,338,3123.81,38,Sensors & Controls,A,Y
+MM-1019,2026-04-05,121,1122.54,39,Sensors & Controls,A,Y
+MM-1019,2026-04-12,278,2443.65,40,Sensors & Controls,A,Y
+MM-1019,2026-04-19,199,1742.88,41,Sensors & Controls,A,Y
+MM-1019,2026-04-26,228,2091.16,42,Sensors & Controls,A,Y
+MM-1019,2026-05-03,348,3202.62,43,Sensors & Controls,A,Y
+MM-1019,2026-05-10,184,1635.55,44,Sensors & Controls,A,Y
+MM-1019,2026-05-17,268,2348.39,45,Sensors & Controls,A,Y
+MM-1019,2026-05-24,305,2709.34,46,Sensors & Controls,A,Y
+MM-1019,2026-05-31,276,2475.58,47,Sensors & Controls,A,Y
+MM-1019,2026-06-07,248,2203.69,48,Sensors & Controls,A,Y
+MM-1019,2026-06-14,264,2368.07,49,Sensors & Controls,A,Y
+MM-1019,2026-06-21,296,2667.36,50,Sensors & Controls,A,Y
+MM-1019,2026-06-28,197,1749.13,51,Sensors & Controls,A,Y
+MM-1019,2026-07-05,266,2346.59,52,Sensors & Controls,A,Y
+MM-1020,2025-07-13,90,421.04,1,Seals & Gaskets,C,Y
+MM-1020,2025-07-20,81,378.89,2,Seals & Gaskets,C,Y
+MM-1020,2025-07-27,73,325.02,3,Seals & Gaskets,C,Y
+MM-1020,2025-08-03,107,477.21,4,Seals & Gaskets,C,Y
+MM-1020,2025-08-10,113,516.75,5,Seals & Gaskets,C,Y
+MM-1020,2025-08-17,102,476.06,6,Seals & Gaskets,C,Y
+MM-1020,2025-08-24,193,881.51,7,Seals & Gaskets,C,Y
+MM-1020,2025-08-31,84,372.08,8,Seals & Gaskets,C,Y
+MM-1020,2025-09-07,76,352.35,9,Seals & Gaskets,C,Y
+MM-1020,2025-09-14,92,418.91,10,Seals & Gaskets,C,Y
+MM-1020,2025-09-21,99,454.85,11,Seals & Gaskets,C,Y
+MM-1020,2025-09-28,72,336.19,12,Seals & Gaskets,C,Y
+MM-1020,2025-10-05,99,441.96,13,Seals & Gaskets,C,Y
+MM-1020,2025-10-12,97,443.67,14,Seals & Gaskets,C,Y
+MM-1020,2025-10-19,101,457.97,15,Seals & Gaskets,C,Y
+MM-1020,2025-10-26,67,297.61,16,Seals & Gaskets,C,Y
+MM-1020,2025-11-02,106,481.79,17,Seals & Gaskets,C,Y
+MM-1020,2025-11-09,86,381.62,18,Seals & Gaskets,C,Y
+MM-1020,2025-11-16,131,611.41,19,Seals & Gaskets,C,Y
+MM-1020,2025-11-23,55,247.47,20,Seals & Gaskets,C,Y
+MM-1020,2025-11-30,52,235.92,21,Seals & Gaskets,C,Y
+MM-1020,2025-12-07,65,290.25,22,Seals & Gaskets,C,Y
+MM-1020,2025-12-14,81,363.09,23,Seals & Gaskets,C,Y
+MM-1020,2025-12-21,88,390.0,24,Seals & Gaskets,C,Y
+MM-1020,2025-12-28,95,436.24,25,Seals & Gaskets,C,Y
+MM-1020,2026-01-04,139,638.35,26,Seals & Gaskets,C,Y
+MM-1020,2026-01-11,40,186.91,27,Seals & Gaskets,C,Y
+MM-1020,2026-01-18,45,209.37,28,Seals & Gaskets,C,Y
+MM-1020,2026-01-25,95,427.59,29,Seals & Gaskets,C,Y
+MM-1020,2026-02-01,165,752.42,30,Seals & Gaskets,C,Y
+MM-1020,2026-02-08,129,571.48,31,Seals & Gaskets,C,Y
+MM-1020,2026-02-15,76,340.71,32,Seals & Gaskets,C,Y
+MM-1020,2026-02-22,115,513.74,33,Seals & Gaskets,C,Y
+MM-1020,2026-03-01,104,476.8,34,Seals & Gaskets,C,Y
+MM-1020,2026-03-08,102,459.79,35,Seals & Gaskets,C,Y
+MM-1020,2026-03-15,89,411.56,36,Seals & Gaskets,C,Y
+MM-1020,2026-03-22,106,484.83,37,Seals & Gaskets,C,Y
+MM-1020,2026-03-29,132,601.39,38,Seals & Gaskets,C,Y
+MM-1020,2026-04-05,82,379.67,39,Seals & Gaskets,C,Y
+MM-1020,2026-04-12,108,489.31,40,Seals & Gaskets,C,Y
+MM-1020,2026-04-19,107,501.07,41,Seals & Gaskets,C,Y
+MM-1020,2026-04-26,114,506.03,42,Seals & Gaskets,C,Y
+MM-1020,2026-05-03,58,257.99,43,Seals & Gaskets,C,Y
+MM-1020,2026-05-10,75,341.41,44,Seals & Gaskets,C,Y
+MM-1020,2026-05-17,59,274.4,45,Seals & Gaskets,C,Y
+MM-1020,2026-05-24,74,338.97,46,Seals & Gaskets,C,Y
+MM-1020,2026-05-31,74,343.62,47,Seals & Gaskets,C,Y
+MM-1020,2026-06-07,49,216.75,48,Seals & Gaskets,C,Y
+MM-1020,2026-06-14,79,353.33,49,Seals & Gaskets,C,Y
+MM-1020,2026-06-21,130,596.77,50,Seals & Gaskets,C,Y
+MM-1020,2026-06-28,95,424.16,51,Seals & Gaskets,C,Y
+MM-1020,2026-07-05,54,248.7,52,Seals & Gaskets,C,Y
+MM-1021,2025-07-13,51,87.13,1,Seals & Gaskets,C,X
+MM-1021,2025-07-20,69,120.86,2,Seals & Gaskets,C,X
+MM-1021,2025-07-27,52,88.92,3,Seals & Gaskets,C,X
+MM-1021,2025-08-03,70,117.75,4,Seals & Gaskets,C,X
+MM-1021,2025-08-10,55,92.54,5,Seals & Gaskets,C,X
+MM-1021,2025-08-17,69,121.01,6,Seals & Gaskets,C,X
+MM-1021,2025-08-24,62,108.91,7,Seals & Gaskets,C,X
+MM-1021,2025-08-31,77,133.1,8,Seals & Gaskets,C,X
+MM-1021,2025-09-07,80,136.94,9,Seals & Gaskets,C,X
+MM-1021,2025-09-14,73,125.77,10,Seals & Gaskets,C,X
+MM-1021,2025-09-21,77,136.39,11,Seals & Gaskets,C,X
+MM-1021,2025-09-28,47,79.25,12,Seals & Gaskets,C,X
+MM-1021,2025-10-05,65,110.3,13,Seals & Gaskets,C,X
+MM-1021,2025-10-12,65,111.02,14,Seals & Gaskets,C,X
+MM-1021,2025-10-19,63,110.72,15,Seals & Gaskets,C,X
+MM-1021,2025-10-26,44,78.03,16,Seals & Gaskets,C,X
+MM-1021,2025-11-02,56,94.36,17,Seals & Gaskets,C,X
+MM-1021,2025-11-09,56,94.44,18,Seals & Gaskets,C,X
+MM-1021,2025-11-16,52,92.58,19,Seals & Gaskets,C,X
+MM-1021,2025-11-23,43,73.04,20,Seals & Gaskets,C,X
+MM-1021,2025-11-30,47,81.3,21,Seals & Gaskets,C,X
+MM-1021,2025-12-07,59,101.32,22,Seals & Gaskets,C,X
+MM-1021,2025-12-14,60,101.55,23,Seals & Gaskets,C,X
+MM-1021,2025-12-21,59,103.23,24,Seals & Gaskets,C,X
+MM-1021,2025-12-28,64,109.85,25,Seals & Gaskets,C,X
+MM-1021,2026-01-04,69,116.28,26,Seals & Gaskets,C,X
+MM-1021,2026-01-11,69,116.28,27,Seals & Gaskets,C,X
+MM-1021,2026-01-18,79,134.93,28,Seals & Gaskets,C,X
+MM-1021,2026-01-25,82,138.17,29,Seals & Gaskets,C,X
+MM-1021,2026-02-01,99,174.72,30,Seals & Gaskets,C,X
+MM-1021,2026-02-08,73,122.68,31,Seals & Gaskets,C,X
+MM-1021,2026-02-15,75,132.5,32,Seals & Gaskets,C,X
+MM-1021,2026-02-22,54,93.69,33,Seals & Gaskets,C,X
+MM-1021,2026-03-01,85,149.66,34,Seals & Gaskets,C,X
+MM-1021,2026-03-08,100,173.01,35,Seals & Gaskets,C,X
+MM-1021,2026-03-15,92,155.82,36,Seals & Gaskets,C,X
+MM-1021,2026-03-22,86,144.78,37,Seals & Gaskets,C,X
+MM-1021,2026-03-29,88,155.77,38,Seals & Gaskets,C,X
+MM-1021,2026-04-05,77,134.69,39,Seals & Gaskets,C,X
+MM-1021,2026-04-12,67,115.34,40,Seals & Gaskets,C,X
+MM-1021,2026-04-19,84,145.51,41,Seals & Gaskets,C,X
+MM-1021,2026-04-26,67,114.71,42,Seals & Gaskets,C,X
+MM-1021,2026-05-03,70,119.29,43,Seals & Gaskets,C,X
+MM-1021,2026-05-10,42,71.13,44,Seals & Gaskets,C,X
+MM-1021,2026-05-17,42,73.11,45,Seals & Gaskets,C,X
+MM-1021,2026-05-24,58,101.51,46,Seals & Gaskets,C,X
+MM-1021,2026-05-31,51,86.84,47,Seals & Gaskets,C,X
+MM-1021,2026-06-07,60,100.74,48,Seals & Gaskets,C,X
+MM-1021,2026-06-14,57,100.16,49,Seals & Gaskets,C,X
+MM-1021,2026-06-21,84,141.35,50,Seals & Gaskets,C,X
+MM-1021,2026-06-28,75,126.42,51,Seals & Gaskets,C,X
+MM-1021,2026-07-05,82,144.04,52,Seals & Gaskets,C,X
+MM-1022,2025-07-13,87,215.16,1,Seals & Gaskets,C,X
+MM-1022,2025-07-20,111,280.65,2,Seals & Gaskets,C,X
+MM-1022,2025-07-27,107,274.37,3,Seals & Gaskets,C,X
+MM-1022,2025-08-03,104,268.25,4,Seals & Gaskets,C,X
+MM-1022,2025-08-10,93,230.81,5,Seals & Gaskets,C,X
+MM-1022,2025-08-17,113,281.3,6,Seals & Gaskets,C,X
+MM-1022,2025-08-24,129,333.5,7,Seals & Gaskets,C,X
+MM-1022,2025-08-31,134,347.3,8,Seals & Gaskets,C,X
+MM-1022,2025-09-07,107,270.25,9,Seals & Gaskets,C,X
+MM-1022,2025-09-14,143,351.87,10,Seals & Gaskets,C,X
+MM-1022,2025-09-21,120,302.9,11,Seals & Gaskets,C,X
+MM-1022,2025-09-28,91,235.26,12,Seals & Gaskets,C,X
+MM-1022,2025-10-05,84,207.84,13,Seals & Gaskets,C,X
+MM-1022,2025-10-12,91,223.77,14,Seals & Gaskets,C,X
+MM-1022,2025-10-19,83,211.99,15,Seals & Gaskets,C,X
+MM-1022,2025-10-26,87,221.76,16,Seals & Gaskets,C,X
+MM-1022,2025-11-02,78,199.6,17,Seals & Gaskets,C,X
+MM-1022,2025-11-09,72,183.82,18,Seals & Gaskets,C,X
+MM-1022,2025-11-16,58,144.6,19,Seals & Gaskets,C,X
+MM-1022,2025-11-23,76,196.77,20,Seals & Gaskets,C,X
+MM-1022,2025-11-30,57,145.06,21,Seals & Gaskets,C,X
+MM-1022,2025-12-07,82,209.82,22,Seals & Gaskets,C,X
+MM-1022,2025-12-14,57,140.71,23,Seals & Gaskets,C,X
+MM-1022,2025-12-21,63,159.14,24,Seals & Gaskets,C,X
+MM-1022,2025-12-28,75,189.81,25,Seals & Gaskets,C,X
+MM-1022,2026-01-04,85,212.97,26,Seals & Gaskets,C,X
+MM-1022,2026-01-11,88,222.89,27,Seals & Gaskets,C,X
+MM-1022,2026-01-18,96,245.12,28,Seals & Gaskets,C,X
+MM-1022,2026-01-25,110,282.03,29,Seals & Gaskets,C,X
+MM-1022,2026-02-01,100,245.97,30,Seals & Gaskets,C,X
+MM-1022,2026-02-08,120,302.9,31,Seals & Gaskets,C,X
+MM-1022,2026-02-15,85,216.5,32,Seals & Gaskets,C,X
+MM-1022,2026-02-22,108,273.67,33,Seals & Gaskets,C,X
+MM-1022,2026-03-01,96,245.32,34,Seals & Gaskets,C,X
+MM-1022,2026-03-08,136,344.64,35,Seals & Gaskets,C,X
+MM-1022,2026-03-15,107,267.03,36,Seals & Gaskets,C,X
+MM-1022,2026-03-22,122,314.16,37,Seals & Gaskets,C,X
+MM-1022,2026-03-29,85,214.45,38,Seals & Gaskets,C,X
+MM-1022,2026-04-05,124,304.05,39,Seals & Gaskets,C,X
+MM-1022,2026-04-12,100,247.36,40,Seals & Gaskets,C,X
+MM-1022,2026-04-19,117,302.7,41,Seals & Gaskets,C,X
+MM-1022,2026-04-26,88,218.23,42,Seals & Gaskets,C,X
+MM-1022,2026-05-03,68,169.7,43,Seals & Gaskets,C,X
+MM-1022,2026-05-10,70,175.17,44,Seals & Gaskets,C,X
+MM-1022,2026-05-17,74,189.87,45,Seals & Gaskets,C,X
+MM-1022,2026-05-24,67,167.85,46,Seals & Gaskets,C,X
+MM-1022,2026-05-31,85,219.64,47,Seals & Gaskets,C,X
+MM-1022,2026-06-07,78,196.82,48,Seals & Gaskets,C,X
+MM-1022,2026-06-14,71,175.83,49,Seals & Gaskets,C,X
+MM-1022,2026-06-21,93,234.34,50,Seals & Gaskets,C,X
+MM-1022,2026-06-28,86,219.1,51,Seals & Gaskets,C,X
+MM-1022,2026-07-05,105,269.83,52,Seals & Gaskets,C,X
+MM-1023,2025-07-13,68,116.59,1,Seals & Gaskets,C,X
+MM-1023,2025-07-20,86,145.5,2,Seals & Gaskets,C,X
+MM-1023,2025-07-27,63,104.51,3,Seals & Gaskets,C,X
+MM-1023,2025-08-03,72,124.87,4,Seals & Gaskets,C,X
+MM-1023,2025-08-10,86,143.8,5,Seals & Gaskets,C,X
+MM-1023,2025-08-17,83,138.69,6,Seals & Gaskets,C,X
+MM-1023,2025-08-24,87,148.46,7,Seals & Gaskets,C,X
+MM-1023,2025-08-31,100,171.29,8,Seals & Gaskets,C,X
+MM-1023,2025-09-07,87,144.8,9,Seals & Gaskets,C,X
+MM-1023,2025-09-14,94,163.66,10,Seals & Gaskets,C,X
+MM-1023,2025-09-21,79,135.36,11,Seals & Gaskets,C,X
+MM-1023,2025-09-28,64,109.71,12,Seals & Gaskets,C,X
+MM-1023,2025-10-05,89,146.91,13,Seals & Gaskets,C,X
+MM-1023,2025-10-12,95,162.33,14,Seals & Gaskets,C,X
+MM-1023,2025-10-19,76,128.25,15,Seals & Gaskets,C,X
+MM-1023,2025-10-26,69,117.37,16,Seals & Gaskets,C,X
+MM-1023,2025-11-02,67,113.47,17,Seals & Gaskets,C,X
+MM-1023,2025-11-09,75,125.59,18,Seals & Gaskets,C,X
+MM-1023,2025-11-16,64,107.99,19,Seals & Gaskets,C,X
+MM-1023,2025-11-23,67,111.66,20,Seals & Gaskets,C,X
+MM-1023,2025-11-30,67,112.49,21,Seals & Gaskets,C,X
+MM-1023,2025-12-07,72,122.39,22,Seals & Gaskets,C,X
+MM-1023,2025-12-14,65,113.48,23,Seals & Gaskets,C,X
+MM-1023,2025-12-21,65,111.78,24,Seals & Gaskets,C,X
+MM-1023,2025-12-28,78,130.71,25,Seals & Gaskets,C,X
+MM-1023,2026-01-04,88,145.39,26,Seals & Gaskets,C,X
+MM-1023,2026-01-11,96,164.95,27,Seals & Gaskets,C,X
+MM-1023,2026-01-18,105,178.68,28,Seals & Gaskets,C,X
+MM-1023,2026-01-25,104,175.7,29,Seals & Gaskets,C,X
+MM-1023,2026-02-01,91,150.99,30,Seals & Gaskets,C,X
+MM-1023,2026-02-08,105,183.81,31,Seals & Gaskets,C,X
+MM-1023,2026-02-15,106,180.82,32,Seals & Gaskets,C,X
+MM-1023,2026-02-22,107,185.47,33,Seals & Gaskets,C,X
+MM-1023,2026-03-01,114,195.19,34,Seals & Gaskets,C,X
+MM-1023,2026-03-08,104,180.61,35,Seals & Gaskets,C,X
+MM-1023,2026-03-15,102,176.9,36,Seals & Gaskets,C,X
+MM-1023,2026-03-22,125,208.61,37,Seals & Gaskets,C,X
+MM-1023,2026-03-29,97,164.36,38,Seals & Gaskets,C,X
+MM-1023,2026-04-05,106,176.59,39,Seals & Gaskets,C,X
+MM-1023,2026-04-12,102,172.38,40,Seals & Gaskets,C,X
+MM-1023,2026-04-19,87,151.39,41,Seals & Gaskets,C,X
+MM-1023,2026-04-26,79,131.27,42,Seals & Gaskets,C,X
+MM-1023,2026-05-03,68,118.47,43,Seals & Gaskets,C,X
+MM-1023,2026-05-10,59,99.74,44,Seals & Gaskets,C,X
+MM-1023,2026-05-17,77,134.44,45,Seals & Gaskets,C,X
+MM-1023,2026-05-24,74,127.06,46,Seals & Gaskets,C,X
+MM-1023,2026-05-31,77,132.89,47,Seals & Gaskets,C,X
+MM-1023,2026-06-07,68,113.13,48,Seals & Gaskets,C,X
+MM-1023,2026-06-14,93,155.56,49,Seals & Gaskets,C,X
+MM-1023,2026-06-21,84,141.53,50,Seals & Gaskets,C,X
+MM-1023,2026-06-28,83,143.8,51,Seals & Gaskets,C,X
+MM-1023,2026-07-05,67,115.76,52,Seals & Gaskets,C,X
+MM-1024,2025-07-13,102,258.02,1,Seals & Gaskets,C,Y
+MM-1024,2025-07-20,75,190.36,2,Seals & Gaskets,C,Y
+MM-1024,2025-07-27,117,296.48,3,Seals & Gaskets,C,Y
+MM-1024,2025-08-03,58,142.59,4,Seals & Gaskets,C,Y
+MM-1024,2025-08-10,94,229.99,5,Seals & Gaskets,C,Y
+MM-1024,2025-08-17,97,235.87,6,Seals & Gaskets,C,Y
+MM-1024,2025-08-24,102,251.89,7,Seals & Gaskets,C,Y
+MM-1024,2025-08-31,90,224.04,8,Seals & Gaskets,C,Y
+MM-1024,2025-09-07,94,231.19,9,Seals & Gaskets,C,Y
+MM-1024,2025-09-14,59,143.19,10,Seals & Gaskets,C,Y
+MM-1024,2025-09-21,113,274.06,11,Seals & Gaskets,C,Y
+MM-1024,2025-09-28,99,248.34,12,Seals & Gaskets,C,Y
+MM-1024,2025-10-05,81,204.43,13,Seals & Gaskets,C,Y
+MM-1024,2025-10-12,90,227.39,14,Seals & Gaskets,C,Y
+MM-1024,2025-10-19,94,236.34,15,Seals & Gaskets,C,Y
+MM-1024,2025-10-26,74,186.58,16,Seals & Gaskets,C,Y
+MM-1024,2025-11-02,98,240.9,17,Seals & Gaskets,C,Y
+MM-1024,2025-11-09,69,172.93,18,Seals & Gaskets,C,Y
+MM-1024,2025-11-16,41,103.86,19,Seals & Gaskets,C,Y
+MM-1024,2025-11-23,59,146.3,20,Seals & Gaskets,C,Y
+MM-1024,2025-11-30,71,172.48,21,Seals & Gaskets,C,Y
+MM-1024,2025-12-07,78,191.46,22,Seals & Gaskets,C,Y
+MM-1024,2025-12-14,60,145.94,23,Seals & Gaskets,C,Y
+MM-1024,2025-12-21,43,108.16,24,Seals & Gaskets,C,Y
+MM-1024,2025-12-28,58,139.56,25,Seals & Gaskets,C,Y
+MM-1024,2026-01-04,39,96.14,26,Seals & Gaskets,C,Y
+MM-1024,2026-01-11,86,211.75,27,Seals & Gaskets,C,Y
+MM-1024,2026-01-18,64,157.81,28,Seals & Gaskets,C,Y
+MM-1024,2026-01-25,60,148.21,29,Seals & Gaskets,C,Y
+MM-1024,2026-02-01,101,254.23,30,Seals & Gaskets,C,Y
+MM-1024,2026-02-08,121,296.03,31,Seals & Gaskets,C,Y
+MM-1024,2026-02-15,66,166.48,32,Seals & Gaskets,C,Y
+MM-1024,2026-02-22,89,220.92,33,Seals & Gaskets,C,Y
+MM-1024,2026-03-01,79,197.93,34,Seals & Gaskets,C,Y
+MM-1024,2026-03-08,119,296.95,35,Seals & Gaskets,C,Y
+MM-1024,2026-03-15,80,197.73,36,Seals & Gaskets,C,Y
+MM-1024,2026-03-22,55,134.88,37,Seals & Gaskets,C,Y
+MM-1024,2026-03-29,75,190.66,38,Seals & Gaskets,C,Y
+MM-1024,2026-04-05,97,232.86,39,Seals & Gaskets,C,Y
+MM-1024,2026-04-12,63,159.07,40,Seals & Gaskets,C,Y
+MM-1024,2026-04-19,53,131.17,41,Seals & Gaskets,C,Y
+MM-1024,2026-04-26,59,148.46,42,Seals & Gaskets,C,Y
+MM-1024,2026-05-03,41,101.08,43,Seals & Gaskets,C,Y
+MM-1024,2026-05-10,53,128.79,44,Seals & Gaskets,C,Y
+MM-1024,2026-05-17,45,112.1,45,Seals & Gaskets,C,Y
+MM-1024,2026-05-24,90,218.93,46,Seals & Gaskets,C,Y
+MM-1024,2026-05-31,23,58.04,47,Seals & Gaskets,C,Y
+MM-1024,2026-06-07,40,98.82,48,Seals & Gaskets,C,Y
+MM-1024,2026-06-14,45,107.9,49,Seals & Gaskets,C,Y
+MM-1024,2026-06-21,41,101.34,50,Seals & Gaskets,C,Y
+MM-1024,2026-06-28,68,166.5,51,Seals & Gaskets,C,Y
+MM-1024,2026-07-05,50,121.04,52,Seals & Gaskets,C,Y
+MM-1025,2025-07-13,137,3867.75,1,Pneumatic Components,A,Y
+MM-1025,2025-07-20,99,2890.41,2,Pneumatic Components,A,Y
+MM-1025,2025-07-27,341,9787.38,3,Pneumatic Components,A,Y
+MM-1025,2025-08-03,237,6764.91,4,Pneumatic Components,A,Y
+MM-1025,2025-08-10,227,6687.62,5,Pneumatic Components,A,Y
+MM-1025,2025-08-17,247,7012.22,6,Pneumatic Components,A,Y
+MM-1025,2025-08-24,241,6876.34,7,Pneumatic Components,A,Y
+MM-1025,2025-08-31,159,4588.19,8,Pneumatic Components,A,Y
+MM-1025,2025-09-07,102,2915.89,9,Pneumatic Components,A,Y
+MM-1025,2025-09-14,199,5789.87,10,Pneumatic Components,A,Y
+MM-1025,2025-09-21,150,4293.06,11,Pneumatic Components,A,Y
+MM-1025,2025-09-28,0,0.0,12,Pneumatic Components,A,Y
+MM-1025,2025-10-05,162,4798.35,13,Pneumatic Components,A,Y
+MM-1025,2025-10-12,312,9187.29,14,Pneumatic Components,A,Y
+MM-1025,2025-10-19,209,6091.06,15,Pneumatic Components,A,Y
+MM-1025,2025-10-26,192,5727.7,16,Pneumatic Components,A,Y
+MM-1025,2025-11-02,232,6676.57,17,Pneumatic Components,A,Y
+MM-1025,2025-11-09,224,6692.37,18,Pneumatic Components,A,Y
+MM-1025,2025-11-16,162,4763.8,19,Pneumatic Components,A,Y
+MM-1025,2025-11-23,178,5332.4,20,Pneumatic Components,A,Y
+MM-1025,2025-11-30,169,5006.28,21,Pneumatic Components,A,Y
+MM-1025,2025-12-07,137,3878.79,22,Pneumatic Components,A,Y
+MM-1025,2025-12-14,137,3951.95,23,Pneumatic Components,A,Y
+MM-1025,2025-12-21,133,3873.56,24,Pneumatic Components,A,Y
+MM-1025,2025-12-28,162,4611.02,25,Pneumatic Components,A,Y
+MM-1025,2026-01-04,260,7385.92,26,Pneumatic Components,A,Y
+MM-1025,2026-01-11,178,5133.62,27,Pneumatic Components,A,Y
+MM-1025,2026-01-18,0,0.0,28,Pneumatic Components,A,Y
+MM-1025,2026-01-25,128,3822.01,29,Pneumatic Components,A,Y
+MM-1025,2026-02-01,154,4571.71,30,Pneumatic Components,A,Y
+MM-1025,2026-02-08,31,915.08,31,Pneumatic Components,A,Y
+MM-1025,2026-02-15,27,802.04,32,Pneumatic Components,A,Y
+MM-1025,2026-02-22,125,3665.17,33,Pneumatic Components,A,Y
+MM-1025,2026-03-01,132,3882.57,34,Pneumatic Components,A,Y
+MM-1025,2026-03-08,150,4495.49,35,Pneumatic Components,A,Y
+MM-1025,2026-03-15,332,9406.9,36,Pneumatic Components,A,Y
+MM-1025,2026-03-22,243,6909.66,37,Pneumatic Components,A,Y
+MM-1025,2026-04-05,283,8079.06,38,Pneumatic Components,A,Y
+MM-1025,2026-04-12,109,3085.3,39,Pneumatic Components,A,Y
+MM-1025,2026-04-19,225,6366.77,40,Pneumatic Components,A,Y
+MM-1025,2026-04-26,109,3183.07,41,Pneumatic Components,A,Y
+MM-1025,2026-05-03,153,4478.14,42,Pneumatic Components,A,Y
+MM-1025,2026-05-10,31,925.01,43,Pneumatic Components,A,Y
+MM-1025,2026-05-17,166,4882.52,44,Pneumatic Components,A,Y
+MM-1025,2026-05-24,212,6337.94,45,Pneumatic Components,A,Y
+MM-1025,2026-05-31,0,0.0,46,Pneumatic Components,A,Y
+MM-1025,2026-06-07,88,2608.82,47,Pneumatic Components,A,Y
+MM-1025,2026-06-21,216,6271.57,48,Pneumatic Components,A,Y
+MM-1025,2026-06-28,235,6913.93,49,Pneumatic Components,A,Y
+MM-1025,2026-07-05,125,3670.2,50,Pneumatic Components,A,Y
+MM-1026,2025-07-13,80,1896.15,1,Pneumatic Components,A,Y
+MM-1026,2025-07-20,107,2501.15,2,Pneumatic Components,A,Y
+MM-1026,2025-07-27,88,2059.93,3,Pneumatic Components,A,Y
+MM-1026,2025-08-03,89,2151.29,4,Pneumatic Components,A,Y
+MM-1026,2025-08-10,82,1936.76,5,Pneumatic Components,A,Y
+MM-1026,2025-08-17,69,1672.54,6,Pneumatic Components,A,Y
+MM-1026,2025-08-24,121,2923.16,7,Pneumatic Components,A,Y
+MM-1026,2025-08-31,64,1537.26,8,Pneumatic Components,A,Y
+MM-1026,2025-09-07,110,2655.81,9,Pneumatic Components,A,Y
+MM-1026,2025-09-14,67,1585.75,10,Pneumatic Components,A,Y
+MM-1026,2025-09-21,72,1694.15,11,Pneumatic Components,A,Y
+MM-1026,2025-09-28,61,1443.78,12,Pneumatic Components,A,Y
+MM-1026,2025-10-05,93,2200.58,13,Pneumatic Components,A,Y
+MM-1026,2025-10-12,48,1171.43,14,Pneumatic Components,A,Y
+MM-1026,2025-10-19,67,1605.55,15,Pneumatic Components,A,Y
+MM-1026,2025-10-26,26,600.74,16,Pneumatic Components,A,Y
+MM-1026,2025-11-02,34,795.12,17,Pneumatic Components,A,Y
+MM-1026,2025-11-09,50,1182.46,18,Pneumatic Components,A,Y
+MM-1026,2025-11-16,46,1061.57,19,Pneumatic Components,A,Y
+MM-1026,2025-11-23,45,1044.44,20,Pneumatic Components,A,Y
+MM-1026,2025-11-30,66,1554.04,21,Pneumatic Components,A,Y
+MM-1026,2025-12-07,67,1567.33,22,Pneumatic Components,A,Y
+MM-1026,2025-12-14,60,1465.2,23,Pneumatic Components,A,Y
+MM-1026,2025-12-21,40,930.3,24,Pneumatic Components,A,Y
+MM-1026,2025-12-28,58,1419.66,25,Pneumatic Components,A,Y
+MM-1026,2026-01-04,99,2370.8,26,Pneumatic Components,A,Y
+MM-1026,2026-01-11,115,2668.29,27,Pneumatic Components,A,Y
+MM-1026,2026-01-18,89,2079.71,28,Pneumatic Components,A,Y
+MM-1026,2026-01-25,50,1183.8,29,Pneumatic Components,A,Y
+MM-1026,2026-02-01,72,1757.2,30,Pneumatic Components,A,Y
+MM-1026,2026-02-08,82,2008.96,31,Pneumatic Components,A,Y
+MM-1026,2026-02-15,79,1896.19,32,Pneumatic Components,A,Y
+MM-1026,2026-02-22,104,2408.49,33,Pneumatic Components,A,Y
+MM-1026,2026-03-01,95,2269.25,34,Pneumatic Components,A,Y
+MM-1026,2026-03-08,53,1234.33,35,Pneumatic Components,A,Y
+MM-1026,2026-03-15,61,1466.3,36,Pneumatic Components,A,Y
+MM-1026,2026-03-22,94,2189.97,37,Pneumatic Components,A,Y
+MM-1026,2026-03-29,100,2429.59,38,Pneumatic Components,A,Y
+MM-1026,2026-04-05,72,1734.35,39,Pneumatic Components,A,Y
+MM-1026,2026-04-12,94,2170.18,40,Pneumatic Components,A,Y
+MM-1026,2026-04-19,63,1514.43,41,Pneumatic Components,A,Y
+MM-1026,2026-04-26,42,1004.56,42,Pneumatic Components,A,Y
+MM-1026,2026-05-03,65,1554.53,43,Pneumatic Components,A,Y
+MM-1026,2026-05-10,100,2407.16,44,Pneumatic Components,A,Y
+MM-1026,2026-05-17,31,724.55,45,Pneumatic Components,A,Y
+MM-1026,2026-05-24,72,1752.13,46,Pneumatic Components,A,Y
+MM-1026,2026-05-31,58,1377.48,47,Pneumatic Components,A,Y
+MM-1026,2026-06-07,40,927.96,48,Pneumatic Components,A,Y
+MM-1026,2026-06-14,22,508.03,49,Pneumatic Components,A,Y
+MM-1026,2026-06-21,17,397.7,50,Pneumatic Components,A,Y
+MM-1026,2026-06-28,47,1095.9,51,Pneumatic Components,A,Y
+MM-1026,2026-07-05,65,1538.77,52,Pneumatic Components,A,Y
+MM-1027,2025-07-13,98,1242.35,1,Pneumatic Components,B,Z
+MM-1027,2025-07-20,94,1201.25,2,Pneumatic Components,B,Z
+MM-1027,2025-07-27,71,876.68,3,Pneumatic Components,B,Z
+MM-1027,2025-08-03,122,1476.78,4,Pneumatic Components,B,Z
+MM-1027,2025-08-10,56,718.0,5,Pneumatic Components,B,Z
+MM-1027,2025-08-17,22,275.86,6,Pneumatic Components,B,Z
+MM-1027,2025-08-24,109,1362.73,7,Pneumatic Components,B,Z
+MM-1027,2025-08-31,159,1956.97,8,Pneumatic Components,B,Z
+MM-1027,2025-09-07,9,110.1,9,Pneumatic Components,B,Z
+MM-1027,2025-09-14,67,843.05,10,Pneumatic Components,B,Z
+MM-1027,2025-09-21,102,1304.8,11,Pneumatic Components,B,Z
+MM-1027,2025-09-28,98,1245.49,12,Pneumatic Components,B,Z
+MM-1027,2025-10-05,125,1578.39,13,Pneumatic Components,B,Z
+MM-1027,2025-10-12,197,2511.88,14,Pneumatic Components,B,Z
+MM-1027,2025-10-26,181,2271.46,15,Pneumatic Components,B,Z
+MM-1027,2025-11-02,168,2062.44,16,Pneumatic Components,B,Z
+MM-1027,2025-11-09,117,1463.27,17,Pneumatic Components,B,Z
+MM-1027,2025-11-16,82,1029.31,18,Pneumatic Components,B,Z
+MM-1027,2025-11-23,41,521.14,19,Pneumatic Components,B,Z
+MM-1027,2025-11-30,113,1413.25,20,Pneumatic Components,B,Z
+MM-1027,2025-12-07,86,1070.68,21,Pneumatic Components,B,Z
+MM-1027,2025-12-14,60,735.19,22,Pneumatic Components,B,Z
+MM-1027,2025-12-21,125,1521.16,23,Pneumatic Components,B,Z
+MM-1027,2025-12-28,142,1780.74,24,Pneumatic Components,B,Z
+MM-1027,2026-01-04,0,0.0,25,Pneumatic Components,B,Z
+MM-1027,2026-01-11,70,877.61,26,Pneumatic Components,B,Z
+MM-1027,2026-01-18,209,2540.48,27,Pneumatic Components,B,Z
+MM-1027,2026-01-25,108,1330.03,28,Pneumatic Components,B,Z
+MM-1027,2026-02-01,102,1291.94,29,Pneumatic Components,B,Z
+MM-1027,2026-02-08,235,2891.52,30,Pneumatic Components,B,Z
+MM-1027,2026-02-15,174,2228.12,31,Pneumatic Components,B,Z
+MM-1027,2026-02-22,29,357.86,32,Pneumatic Components,B,Z
+MM-1027,2026-03-01,98,1239.83,33,Pneumatic Components,B,Z
+MM-1027,2026-03-08,0,0.0,34,Pneumatic Components,B,Z
+MM-1027,2026-03-15,127,1561.54,35,Pneumatic Components,B,Z
+MM-1027,2026-03-22,262,3287.22,36,Pneumatic Components,B,Z
+MM-1027,2026-03-29,110,1395.56,37,Pneumatic Components,B,Z
+MM-1027,2026-04-05,56,688.01,38,Pneumatic Components,B,Z
+MM-1027,2026-04-12,0,0.0,39,Pneumatic Components,B,Z
+MM-1027,2026-04-19,225,2722.42,40,Pneumatic Components,B,Z
+MM-1027,2026-04-26,154,1936.0,41,Pneumatic Components,B,Z
+MM-1027,2026-05-03,86,1099.72,42,Pneumatic Components,B,Z
+MM-1027,2026-05-10,91,1131.19,43,Pneumatic Components,B,Z
+MM-1027,2026-05-17,40,503.07,44,Pneumatic Components,B,Z
+MM-1027,2026-05-24,49,601.82,45,Pneumatic Components,B,Z
+MM-1027,2026-05-31,77,937.0,46,Pneumatic Components,B,Z
+MM-1027,2026-06-07,73,925.76,47,Pneumatic Components,B,Z
+MM-1027,2026-06-14,12,149.6,48,Pneumatic Components,B,Z
+MM-1027,2026-06-21,176,2148.85,49,Pneumatic Components,B,Z
+MM-1027,2026-06-28,196,2410.38,50,Pneumatic Components,B,Z
+MM-1027,2026-07-05,195,2423.17,51,Pneumatic Components,B,Z
+MM-1028,2026-02-22,38,454.38,1,Pneumatic Components,C,Z
+MM-1028,2026-03-01,191,2321.09,2,Pneumatic Components,C,Z
+MM-1028,2026-03-08,59,739.23,3,Pneumatic Components,C,Z
+MM-1028,2026-03-15,108,1334.18,4,Pneumatic Components,C,Z
+MM-1028,2026-03-22,0,0.0,5,Pneumatic Components,C,Z
+MM-1028,2026-03-29,0,0.0,6,Pneumatic Components,C,Z
+MM-1028,2026-04-05,102,1214.58,7,Pneumatic Components,C,Z
+MM-1028,2026-04-12,52,644.56,8,Pneumatic Components,C,Z
+MM-1028,2026-04-19,70,843.89,9,Pneumatic Components,C,Z
+MM-1028,2026-04-26,40,486.24,10,Pneumatic Components,C,Z
+MM-1028,2026-05-03,103,1287.14,11,Pneumatic Components,C,Z
+MM-1028,2026-05-10,0,0.0,12,Pneumatic Components,C,Z
+MM-1028,2026-05-17,74,879.52,13,Pneumatic Components,C,Z
+MM-1028,2026-05-24,52,624.66,14,Pneumatic Components,C,Z
+MM-1028,2026-05-31,37,463.29,15,Pneumatic Components,C,Z
+MM-1028,2026-06-07,7,87.68,16,Pneumatic Components,C,Z
+MM-1028,2026-06-14,70,860.52,17,Pneumatic Components,C,Z
+MM-1028,2026-06-21,84,1013.61,18,Pneumatic Components,C,Z
+MM-1028,2026-06-28,78,932.95,19,Pneumatic Components,C,Z
+MM-1028,2026-07-05,86,1035.87,20,Pneumatic Components,C,Z
+MM-1029,2025-07-13,65,755.15,1,Pneumatic Components,B,X
+MM-1029,2025-07-20,60,701.81,2,Pneumatic Components,B,X
+MM-1029,2025-07-27,64,743.65,3,Pneumatic Components,B,X
+MM-1029,2025-08-03,86,1009.63,4,Pneumatic Components,B,X
+MM-1029,2025-08-10,109,1268.73,5,Pneumatic Components,B,X
+MM-1029,2025-08-17,56,665.82,6,Pneumatic Components,B,X
+MM-1029,2025-08-24,77,923.57,7,Pneumatic Components,B,X
+MM-1029,2025-08-31,52,614.01,8,Pneumatic Components,B,X
+MM-1029,2025-09-07,67,775.47,9,Pneumatic Components,B,X
+MM-1029,2025-09-14,70,841.23,10,Pneumatic Components,B,X
+MM-1029,2025-09-21,81,980.43,11,Pneumatic Components,B,X
+MM-1029,2025-09-28,78,940.45,12,Pneumatic Components,B,X
+MM-1029,2025-10-05,73,855.56,13,Pneumatic Components,B,X
+MM-1029,2025-10-12,80,977.04,14,Pneumatic Components,B,X
+MM-1029,2025-10-19,51,616.73,15,Pneumatic Components,B,X
+MM-1029,2025-10-26,70,841.91,16,Pneumatic Components,B,X
+MM-1029,2025-11-02,79,957.09,17,Pneumatic Components,B,X
+MM-1029,2025-11-09,47,540.72,18,Pneumatic Components,B,X
+MM-1029,2025-11-16,30,352.68,19,Pneumatic Components,B,X
+MM-1029,2025-11-23,81,942.57,20,Pneumatic Components,B,X
+MM-1029,2025-11-30,41,473.72,21,Pneumatic Components,B,X
+MM-1029,2025-12-07,53,644.27,22,Pneumatic Components,B,X
+MM-1029,2025-12-14,78,951.85,23,Pneumatic Components,B,X
+MM-1029,2025-12-21,48,557.07,24,Pneumatic Components,B,X
+MM-1029,2025-12-28,88,1049.99,25,Pneumatic Components,B,X
+MM-1029,2026-01-04,57,659.64,26,Pneumatic Components,B,X
+MM-1029,2026-01-11,56,647.29,27,Pneumatic Components,B,X
+MM-1029,2026-01-18,50,610.31,28,Pneumatic Components,B,X
+MM-1029,2026-01-25,63,756.63,29,Pneumatic Components,B,X
+MM-1029,2026-02-01,95,1138.73,30,Pneumatic Components,B,X
+MM-1029,2026-02-08,70,848.48,31,Pneumatic Components,B,X
+MM-1029,2026-02-15,111,1277.31,32,Pneumatic Components,B,X
+MM-1029,2026-02-22,86,1046.7,33,Pneumatic Components,B,X
+MM-1029,2026-03-01,89,1055.0,34,Pneumatic Components,B,X
+MM-1029,2026-03-08,64,738.9,35,Pneumatic Components,B,X
+MM-1029,2026-03-15,115,1382.48,36,Pneumatic Components,B,X
+MM-1029,2026-03-22,102,1183.83,37,Pneumatic Components,B,X
+MM-1029,2026-03-29,99,1152.66,38,Pneumatic Components,B,X
+MM-1029,2026-04-05,75,892.35,39,Pneumatic Components,B,X
+MM-1029,2026-04-12,48,574.33,40,Pneumatic Components,B,X
+MM-1029,2026-04-19,78,928.13,41,Pneumatic Components,B,X
+MM-1029,2026-04-26,84,975.58,42,Pneumatic Components,B,X
+MM-1029,2026-05-03,82,987.78,43,Pneumatic Components,B,X
+MM-1029,2026-05-10,77,936.05,44,Pneumatic Components,B,X
+MM-1029,2026-05-17,75,912.36,45,Pneumatic Components,B,X
+MM-1029,2026-05-24,54,621.37,46,Pneumatic Components,B,X
+MM-1029,2026-05-31,55,637.02,47,Pneumatic Components,B,X
+MM-1029,2026-06-07,45,528.95,48,Pneumatic Components,B,X
+MM-1029,2026-06-14,92,1110.15,49,Pneumatic Components,B,X
+MM-1029,2026-06-21,114,1323.36,50,Pneumatic Components,B,X
+MM-1029,2026-06-28,141,1623.4,51,Pneumatic Components,B,X
+MM-1029,2026-07-05,83,974.37,52,Pneumatic Components,B,X
+MM-1030,2025-07-13,82,3857.54,1,Raw Material - Metal Stock,A,Z
+MM-1030,2025-07-20,31,1405.67,2,Raw Material - Metal Stock,A,Z
+MM-1030,2025-07-27,71,3276.25,3,Raw Material - Metal Stock,A,Z
+MM-1030,2025-08-03,40,1804.6,4,Raw Material - Metal Stock,A,Z
+MM-1030,2025-08-10,69,3110.61,5,Raw Material - Metal Stock,A,Z
+MM-1030,2025-08-17,47,2123.07,6,Raw Material - Metal Stock,A,Z
+MM-1030,2025-08-24,118,5380.07,7,Raw Material - Metal Stock,A,Z
+MM-1030,2025-08-31,126,5757.81,8,Raw Material - Metal Stock,A,Z
+MM-1030,2025-09-07,106,4914.64,9,Raw Material - Metal Stock,A,Z
+MM-1030,2025-09-14,51,2327.41,10,Raw Material - Metal Stock,A,Z
+MM-1030,2025-09-21,19,880.57,11,Raw Material - Metal Stock,A,Z
+MM-1030,2025-09-28,118,5549.15,12,Raw Material - Metal Stock,A,Z
+MM-1030,2025-10-05,80,3689.12,13,Raw Material - Metal Stock,A,Z
+MM-1030,2025-10-12,0,0.0,14,Raw Material - Metal Stock,A,Z
+MM-1030,2025-10-19,102,4580.59,15,Raw Material - Metal Stock,A,Z
+MM-1030,2025-10-26,25,1127.14,16,Raw Material - Metal Stock,A,Z
+MM-1030,2025-11-02,36,1669.36,17,Raw Material - Metal Stock,A,Z
+MM-1030,2025-11-09,94,4232.27,18,Raw Material - Metal Stock,A,Z
+MM-1030,2025-11-16,23,1035.07,19,Raw Material - Metal Stock,A,Z
+MM-1030,2025-11-23,48,2195.66,20,Raw Material - Metal Stock,A,Z
+MM-1030,2025-11-30,5,226.64,21,Raw Material - Metal Stock,A,Z
+MM-1030,2025-12-07,68,3226.02,22,Raw Material - Metal Stock,A,Z
+MM-1030,2025-12-14,61,2895.3,23,Raw Material - Metal Stock,A,Z
+MM-1030,2025-12-21,11,512.41,24,Raw Material - Metal Stock,A,Z
+MM-1030,2025-12-28,120,5610.68,25,Raw Material - Metal Stock,A,Z
+MM-1030,2026-01-04,47,2168.78,26,Raw Material - Metal Stock,A,Z
+MM-1030,2026-01-11,64,2924.91,27,Raw Material - Metal Stock,A,Z
+MM-1030,2026-01-18,107,4991.15,28,Raw Material - Metal Stock,A,Z
+MM-1030,2026-01-25,114,5194.77,29,Raw Material - Metal Stock,A,Z
+MM-1030,2026-02-01,151,6845.27,30,Raw Material - Metal Stock,A,Z
+MM-1030,2026-02-08,96,4468.42,31,Raw Material - Metal Stock,A,Z
+MM-1030,2026-02-15,139,6262.53,32,Raw Material - Metal Stock,A,Z
+MM-1030,2026-02-22,161,7370.89,33,Raw Material - Metal Stock,A,Z
+MM-1030,2026-03-01,14,649.73,34,Raw Material - Metal Stock,A,Z
+MM-1030,2026-03-08,237,10938.48,35,Raw Material - Metal Stock,A,Z
+MM-1030,2026-03-15,184,8629.65,36,Raw Material - Metal Stock,A,Z
+MM-1030,2026-03-29,105,4978.72,37,Raw Material - Metal Stock,A,Z
+MM-1030,2026-04-05,35,1592.98,38,Raw Material - Metal Stock,A,Z
+MM-1030,2026-04-12,117,5262.17,39,Raw Material - Metal Stock,A,Z
+MM-1030,2026-04-19,57,2648.57,40,Raw Material - Metal Stock,A,Z
+MM-1030,2026-04-26,23,1090.0,41,Raw Material - Metal Stock,A,Z
+MM-1030,2026-05-03,51,2362.2,42,Raw Material - Metal Stock,A,Z
+MM-1030,2026-05-10,123,5610.43,43,Raw Material - Metal Stock,A,Z
+MM-1030,2026-05-17,112,5246.99,44,Raw Material - Metal Stock,A,Z
+MM-1030,2026-05-24,120,5404.97,45,Raw Material - Metal Stock,A,Z
+MM-1030,2026-05-31,82,3676.79,46,Raw Material - Metal Stock,A,Z
+MM-1030,2026-06-07,93,4349.2,47,Raw Material - Metal Stock,A,Z
+MM-1030,2026-06-14,33,1533.81,48,Raw Material - Metal Stock,A,Z
+MM-1030,2026-06-21,119,5465.77,49,Raw Material - Metal Stock,A,Z
+MM-1030,2026-06-28,139,6422.9,50,Raw Material - Metal Stock,A,Z
+MM-1030,2026-07-05,7,331.95,51,Raw Material - Metal Stock,A,Z
+MM-1031,2026-06-07,55,1497.66,1,Raw Material - Metal Stock,C,X
+MM-1031,2026-06-14,63,1691.63,2,Raw Material - Metal Stock,C,X
+MM-1031,2026-06-21,66,1777.33,3,Raw Material - Metal Stock,C,X
+MM-1031,2026-06-28,62,1651.15,4,Raw Material - Metal Stock,C,X
+MM-1031,2026-07-05,45,1223.77,5,Raw Material - Metal Stock,C,X
+MM-1032,2025-07-13,135,4830.07,1,Raw Material - Metal Stock,A,Z
+MM-1032,2025-07-27,273,10046.41,2,Raw Material - Metal Stock,A,Z
+MM-1032,2025-08-03,88,3251.06,3,Raw Material - Metal Stock,A,Z
+MM-1032,2025-08-10,385,14323.16,4,Raw Material - Metal Stock,A,Z
+MM-1032,2025-08-17,118,4296.16,5,Raw Material - Metal Stock,A,Z
+MM-1032,2025-08-24,97,3588.81,6,Raw Material - Metal Stock,A,Z
+MM-1032,2025-08-31,22,800.82,7,Raw Material - Metal Stock,A,Z
+MM-1032,2025-09-07,137,5101.68,8,Raw Material - Metal Stock,A,Z
+MM-1032,2025-09-14,157,5652.62,9,Raw Material - Metal Stock,A,Z
+MM-1032,2025-09-21,121,4558.96,10,Raw Material - Metal Stock,A,Z
+MM-1032,2025-09-28,107,4022.6,11,Raw Material - Metal Stock,A,Z
+MM-1032,2025-10-05,213,7843.94,12,Raw Material - Metal Stock,A,Z
+MM-1032,2025-10-12,113,4037.27,13,Raw Material - Metal Stock,A,Z
+MM-1032,2025-10-19,205,7525.64,14,Raw Material - Metal Stock,A,Z
+MM-1032,2025-10-26,232,8430.65,15,Raw Material - Metal Stock,A,Z
+MM-1032,2025-11-02,415,15663.3,16,Raw Material - Metal Stock,A,Z
+MM-1032,2025-11-09,175,6326.83,17,Raw Material - Metal Stock,A,Z
+MM-1032,2025-11-16,45,1661.32,18,Raw Material - Metal Stock,A,Z
+MM-1032,2025-11-23,86,3154.13,19,Raw Material - Metal Stock,A,Z
+MM-1032,2025-11-30,114,4105.27,20,Raw Material - Metal Stock,A,Z
+MM-1032,2025-12-07,223,8442.14,21,Raw Material - Metal Stock,A,Z
+MM-1032,2025-12-14,121,4518.27,22,Raw Material - Metal Stock,A,Z
+MM-1032,2025-12-21,244,8752.49,23,Raw Material - Metal Stock,A,Z
+MM-1032,2025-12-28,0,0.0,24,Raw Material - Metal Stock,A,Z
+MM-1032,2026-01-04,234,8786.37,25,Raw Material - Metal Stock,A,Z
+MM-1032,2026-01-11,194,7315.61,26,Raw Material - Metal Stock,A,Z
+MM-1032,2026-01-18,180,6750.04,27,Raw Material - Metal Stock,A,Z
+MM-1032,2026-01-25,150,5439.24,28,Raw Material - Metal Stock,A,Z
+MM-1032,2026-02-01,184,6610.82,29,Raw Material - Metal Stock,A,Z
+MM-1032,2026-02-08,144,5184.23,30,Raw Material - Metal Stock,A,Z
+MM-1032,2026-02-15,162,5803.78,31,Raw Material - Metal Stock,A,Z
+MM-1032,2026-02-22,264,9561.62,32,Raw Material - Metal Stock,A,Z
+MM-1032,2026-03-01,0,0.0,33,Raw Material - Metal Stock,A,Z
+MM-1032,2026-03-08,418,15719.64,34,Raw Material - Metal Stock,A,Z
+MM-1032,2026-03-15,9,334.45,35,Raw Material - Metal Stock,A,Z
+MM-1032,2026-03-22,223,8038.31,36,Raw Material - Metal Stock,A,Z
+MM-1032,2026-03-29,250,8974.11,37,Raw Material - Metal Stock,A,Z
+MM-1032,2026-04-05,185,6983.21,38,Raw Material - Metal Stock,A,Z
+MM-1032,2026-04-12,261,9643.45,39,Raw Material - Metal Stock,A,Z
+MM-1032,2026-04-19,125,4735.04,40,Raw Material - Metal Stock,A,Z
+MM-1032,2026-04-26,92,3399.11,41,Raw Material - Metal Stock,A,Z
+MM-1032,2026-05-03,50,1820.88,42,Raw Material - Metal Stock,A,Z
+MM-1032,2026-05-10,137,5072.09,43,Raw Material - Metal Stock,A,Z
+MM-1032,2026-05-17,158,5707.06,44,Raw Material - Metal Stock,A,Z
+MM-1032,2026-05-24,181,6608.39,45,Raw Material - Metal Stock,A,Z
+MM-1032,2026-05-31,140,5102.9,46,Raw Material - Metal Stock,A,Z
+MM-1032,2026-06-07,168,6279.27,47,Raw Material - Metal Stock,A,Z
+MM-1032,2026-06-14,120,4502.45,48,Raw Material - Metal Stock,A,Z
+MM-1032,2026-06-21,6,221.65,49,Raw Material - Metal Stock,A,Z
+MM-1032,2026-06-28,157,5617.96,50,Raw Material - Metal Stock,A,Z
+MM-1032,2026-07-05,234,8759.43,51,Raw Material - Metal Stock,A,Z
+MM-1033,2025-07-13,460,24134.34,1,Raw Material - Metal Stock,A,Z
+MM-1033,2025-07-20,207,10539.33,2,Raw Material - Metal Stock,A,Z
+MM-1033,2025-07-27,223,11702.3,3,Raw Material - Metal Stock,A,Z
+MM-1033,2025-08-10,73,3870.04,4,Raw Material - Metal Stock,A,Z
+MM-1033,2025-08-17,118,6065.95,5,Raw Material - Metal Stock,A,Z
+MM-1033,2025-08-24,339,17387.3,6,Raw Material - Metal Stock,A,Z
+MM-1033,2025-08-31,101,5187.42,7,Raw Material - Metal Stock,A,Z
+MM-1033,2025-09-07,0,0.0,8,Raw Material - Metal Stock,A,Z
+MM-1033,2025-09-14,364,18706.32,9,Raw Material - Metal Stock,A,Z
+MM-1033,2025-09-21,386,20310.1,10,Raw Material - Metal Stock,A,Z
+MM-1033,2025-09-28,42,2191.93,11,Raw Material - Metal Stock,A,Z
+MM-1033,2025-10-05,439,22243.47,12,Raw Material - Metal Stock,A,Z
+MM-1033,2025-10-12,195,10270.93,13,Raw Material - Metal Stock,A,Z
+MM-1033,2025-10-26,138,7209.34,14,Raw Material - Metal Stock,A,Z
+MM-1033,2025-11-02,178,9120.0,15,Raw Material - Metal Stock,A,Z
+MM-1033,2025-11-09,264,13544.25,16,Raw Material - Metal Stock,A,Z
+MM-1033,2025-11-16,285,14257.09,17,Raw Material - Metal Stock,A,Z
+MM-1033,2025-11-23,144,7523.29,18,Raw Material - Metal Stock,A,Z
+MM-1033,2025-11-30,57,2938.88,19,Raw Material - Metal Stock,A,Z
+MM-1033,2025-12-07,196,10217.72,20,Raw Material - Metal Stock,A,Z
+MM-1033,2025-12-14,216,11445.94,21,Raw Material - Metal Stock,A,Z
+MM-1033,2025-12-21,254,13482.26,22,Raw Material - Metal Stock,A,Z
+MM-1033,2025-12-28,334,17657.31,23,Raw Material - Metal Stock,A,Z
+MM-1033,2026-01-04,196,10174.08,24,Raw Material - Metal Stock,A,Z
+MM-1033,2026-01-11,258,13339.67,25,Raw Material - Metal Stock,A,Z
+MM-1033,2026-01-18,215,11101.43,26,Raw Material - Metal Stock,A,Z
+MM-1033,2026-01-25,472,23770.96,27,Raw Material - Metal Stock,A,Z
+MM-1033,2026-02-01,224,11555.81,28,Raw Material - Metal Stock,A,Z
+MM-1033,2026-02-08,169,8510.65,29,Raw Material - Metal Stock,A,Z
+MM-1033,2026-02-15,178,9365.41,30,Raw Material - Metal Stock,A,Z
+MM-1033,2026-02-22,373,18714.77,31,Raw Material - Metal Stock,A,Z
+MM-1033,2026-03-01,222,11430.32,32,Raw Material - Metal Stock,A,Z
+MM-1033,2026-03-08,327,17070.94,33,Raw Material - Metal Stock,A,Z
+MM-1033,2026-03-15,322,16334.83,34,Raw Material - Metal Stock,A,Z
+MM-1033,2026-03-22,96,4848.08,35,Raw Material - Metal Stock,A,Z
+MM-1033,2026-03-29,79,4169.07,36,Raw Material - Metal Stock,A,Z
+MM-1033,2026-04-05,293,15459.86,37,Raw Material - Metal Stock,A,Z
+MM-1033,2026-04-12,15,765.66,38,Raw Material - Metal Stock,A,Z
+MM-1033,2026-04-19,18,927.15,39,Raw Material - Metal Stock,A,Z
+MM-1033,2026-04-26,389,19596.66,40,Raw Material - Metal Stock,A,Z
+MM-1033,2026-05-03,0,0.0,41,Raw Material - Metal Stock,A,Z
+MM-1033,2026-05-10,0,0.0,42,Raw Material - Metal Stock,A,Z
+MM-1033,2026-05-17,199,10261.37,43,Raw Material - Metal Stock,A,Z
+MM-1033,2026-05-24,201,10441.88,44,Raw Material - Metal Stock,A,Z
+MM-1033,2026-05-31,123,6423.44,45,Raw Material - Metal Stock,A,Z
+MM-1033,2026-06-07,147,7764.78,46,Raw Material - Metal Stock,A,Z
+MM-1033,2026-06-14,235,12463.14,47,Raw Material - Metal Stock,A,Z
+MM-1033,2026-06-21,286,15068.25,48,Raw Material - Metal Stock,A,Z
+MM-1033,2026-06-28,275,14468.68,49,Raw Material - Metal Stock,A,Z
+MM-1033,2026-07-05,199,10423.72,50,Raw Material - Metal Stock,A,Z
+MM-1034,2025-07-13,45,1920.34,1,Raw Material - Metal Stock,A,X
+MM-1034,2025-07-20,45,1911.88,2,Raw Material - Metal Stock,A,X
+MM-1034,2025-07-27,52,2211.95,3,Raw Material - Metal Stock,A,X
+MM-1034,2025-08-03,51,2122.78,4,Raw Material - Metal Stock,A,X
+MM-1034,2025-08-10,56,2403.12,5,Raw Material - Metal Stock,A,X
+MM-1034,2025-08-17,42,1746.98,6,Raw Material - Metal Stock,A,X
+MM-1034,2025-08-24,59,2511.74,7,Raw Material - Metal Stock,A,X
+MM-1034,2025-08-31,52,2216.94,8,Raw Material - Metal Stock,A,X
+MM-1034,2025-09-07,43,1833.46,9,Raw Material - Metal Stock,A,X
+MM-1034,2025-09-14,40,1629.02,10,Raw Material - Metal Stock,A,X
+MM-1034,2025-09-21,54,2311.1,11,Raw Material - Metal Stock,A,X
+MM-1034,2025-09-28,46,1978.17,12,Raw Material - Metal Stock,A,X
+MM-1034,2025-10-05,44,1818.72,13,Raw Material - Metal Stock,A,X
+MM-1034,2025-10-12,44,1842.41,14,Raw Material - Metal Stock,A,X
+MM-1034,2025-10-19,47,2019.32,15,Raw Material - Metal Stock,A,X
+MM-1034,2025-10-26,43,1761.87,16,Raw Material - Metal Stock,A,X
+MM-1034,2025-11-02,34,1397.87,17,Raw Material - Metal Stock,A,X
+MM-1034,2025-11-09,48,2028.58,18,Raw Material - Metal Stock,A,X
+MM-1034,2025-11-16,34,1433.4,19,Raw Material - Metal Stock,A,X
+MM-1034,2025-11-23,39,1642.98,20,Raw Material - Metal Stock,A,X
+MM-1034,2025-11-30,39,1619.75,21,Raw Material - Metal Stock,A,X
+MM-1034,2025-12-07,42,1739.61,22,Raw Material - Metal Stock,A,X
+MM-1034,2025-12-14,34,1433.98,23,Raw Material - Metal Stock,A,X
+MM-1034,2025-12-21,40,1669.87,24,Raw Material - Metal Stock,A,X
+MM-1034,2025-12-28,39,1649.43,25,Raw Material - Metal Stock,A,X
+MM-1034,2026-01-04,46,1970.53,26,Raw Material - Metal Stock,A,X
+MM-1034,2026-01-11,48,2026.97,27,Raw Material - Metal Stock,A,X
+MM-1034,2026-01-18,43,1757.89,28,Raw Material - Metal Stock,A,X
+MM-1034,2026-01-25,54,2274.39,29,Raw Material - Metal Stock,A,X
+MM-1034,2026-02-01,52,2188.87,30,Raw Material - Metal Stock,A,X
+MM-1034,2026-02-08,43,1835.21,31,Raw Material - Metal Stock,A,X
+MM-1034,2026-02-15,40,1705.4,32,Raw Material - Metal Stock,A,X
+MM-1034,2026-02-22,49,2024.13,33,Raw Material - Metal Stock,A,X
+MM-1034,2026-03-01,54,2303.83,34,Raw Material - Metal Stock,A,X
+MM-1034,2026-03-08,46,1874.23,35,Raw Material - Metal Stock,A,X
+MM-1034,2026-03-15,51,2116.16,36,Raw Material - Metal Stock,A,X
+MM-1034,2026-03-22,49,2020.49,37,Raw Material - Metal Stock,A,X
+MM-1034,2026-03-29,58,2398.93,38,Raw Material - Metal Stock,A,X
+MM-1034,2026-04-05,41,1697.02,39,Raw Material - Metal Stock,A,X
+MM-1034,2026-04-12,51,2112.01,40,Raw Material - Metal Stock,A,X
+MM-1034,2026-04-19,49,2009.6,41,Raw Material - Metal Stock,A,X
+MM-1034,2026-04-26,44,1793.34,42,Raw Material - Metal Stock,A,X
+MM-1034,2026-05-03,33,1415.56,43,Raw Material - Metal Stock,A,X
+MM-1034,2026-05-10,43,1819.8,44,Raw Material - Metal Stock,A,X
+MM-1034,2026-05-17,35,1458.4,45,Raw Material - Metal Stock,A,X
+MM-1034,2026-05-24,51,2087.78,46,Raw Material - Metal Stock,A,X
+MM-1034,2026-05-31,41,1724.48,47,Raw Material - Metal Stock,A,X
+MM-1034,2026-06-07,52,2191.72,48,Raw Material - Metal Stock,A,X
+MM-1034,2026-06-14,43,1783.76,49,Raw Material - Metal Stock,A,X
+MM-1034,2026-06-21,40,1712.82,50,Raw Material - Metal Stock,A,X
+MM-1034,2026-06-28,52,2186.58,51,Raw Material - Metal Stock,A,X
+MM-1034,2026-07-05,48,1955.9,52,Raw Material - Metal Stock,A,X
+MM-1035,2025-07-13,194,361.53,1,Packaging Materials,C,X
+MM-1035,2025-07-20,222,435.53,2,Packaging Materials,C,X
+MM-1035,2025-07-27,209,396.35,3,Packaging Materials,C,X
+MM-1035,2025-08-03,201,386.22,4,Packaging Materials,C,X
+MM-1035,2025-08-10,220,421.27,5,Packaging Materials,C,X
+MM-1035,2025-08-17,189,359.33,6,Packaging Materials,C,X
+MM-1035,2025-08-24,174,323.31,7,Packaging Materials,C,X
+MM-1035,2025-08-31,182,346.16,8,Packaging Materials,C,X
+MM-1035,2025-09-07,194,364.85,9,Packaging Materials,C,X
+MM-1035,2025-09-14,208,401.67,10,Packaging Materials,C,X
+MM-1035,2025-09-21,169,316.07,11,Packaging Materials,C,X
+MM-1035,2025-09-28,174,335.73,12,Packaging Materials,C,X
+MM-1035,2025-10-05,162,313.77,13,Packaging Materials,C,X
+MM-1035,2025-10-12,190,368.53,14,Packaging Materials,C,X
+MM-1035,2025-10-19,203,393.65,15,Packaging Materials,C,X
+MM-1035,2025-10-26,140,272.73,16,Packaging Materials,C,X
+MM-1035,2025-11-02,165,320.86,17,Packaging Materials,C,X
+MM-1035,2025-11-09,170,324.22,18,Packaging Materials,C,X
+MM-1035,2025-11-16,144,275.29,19,Packaging Materials,C,X
+MM-1035,2025-11-23,123,233.96,20,Packaging Materials,C,X
+MM-1035,2025-11-30,169,328.59,21,Packaging Materials,C,X
+MM-1035,2025-12-07,123,231.39,22,Packaging Materials,C,X
+MM-1035,2025-12-14,180,349.1,23,Packaging Materials,C,X
+MM-1035,2025-12-21,142,277.84,24,Packaging Materials,C,X
+MM-1035,2025-12-28,131,251.4,25,Packaging Materials,C,X
+MM-1035,2026-01-04,158,310.38,26,Packaging Materials,C,X
+MM-1035,2026-01-11,173,334.89,27,Packaging Materials,C,X
+MM-1035,2026-01-18,183,348.3,28,Packaging Materials,C,X
+MM-1035,2026-01-25,200,374.87,29,Packaging Materials,C,X
+MM-1035,2026-02-01,197,376.51,30,Packaging Materials,C,X
+MM-1035,2026-02-08,238,460.5,31,Packaging Materials,C,X
+MM-1035,2026-02-15,197,384.77,32,Packaging Materials,C,X
+MM-1035,2026-02-22,208,390.14,33,Packaging Materials,C,X
+MM-1035,2026-03-01,206,393.73,34,Packaging Materials,C,X
+MM-1035,2026-03-08,160,310.21,35,Packaging Materials,C,X
+MM-1035,2026-03-15,169,319.77,36,Packaging Materials,C,X
+MM-1035,2026-03-22,194,365.61,37,Packaging Materials,C,X
+MM-1035,2026-03-29,197,368.71,38,Packaging Materials,C,X
+MM-1035,2026-04-05,138,260.84,39,Packaging Materials,C,X
+MM-1035,2026-04-12,216,406.34,40,Packaging Materials,C,X
+MM-1035,2026-04-19,181,351.73,41,Packaging Materials,C,X
+MM-1035,2026-04-26,164,310.18,42,Packaging Materials,C,X
+MM-1035,2026-05-03,168,323.4,43,Packaging Materials,C,X
+MM-1035,2026-05-10,146,286.58,44,Packaging Materials,C,X
+MM-1035,2026-05-17,156,303.64,45,Packaging Materials,C,X
+MM-1035,2026-05-24,157,299.71,46,Packaging Materials,C,X
+MM-1035,2026-05-31,174,323.93,47,Packaging Materials,C,X
+MM-1035,2026-06-07,150,294.44,48,Packaging Materials,C,X
+MM-1035,2026-06-14,130,253.31,49,Packaging Materials,C,X
+MM-1035,2026-06-21,144,270.52,50,Packaging Materials,C,X
+MM-1035,2026-06-28,161,315.4,51,Packaging Materials,C,X
+MM-1035,2026-07-05,145,270.77,52,Packaging Materials,C,X
+MM-1036,2025-07-13,81,233.19,1,Packaging Materials,C,X
+MM-1036,2025-07-20,105,311.54,2,Packaging Materials,C,X
+MM-1036,2025-07-27,83,248.1,3,Packaging Materials,C,X
+MM-1036,2025-08-03,112,324.8,4,Packaging Materials,C,X
+MM-1036,2025-08-10,97,280.16,5,Packaging Materials,C,X
+MM-1036,2025-08-17,71,204.71,6,Packaging Materials,C,X
+MM-1036,2025-08-24,109,313.87,7,Packaging Materials,C,X
+MM-1036,2025-08-31,104,308.14,8,Packaging Materials,C,X
+MM-1036,2025-09-07,115,344.15,9,Packaging Materials,C,X
+MM-1036,2025-09-14,120,345.13,10,Packaging Materials,C,X
+MM-1036,2025-09-21,131,375.01,11,Packaging Materials,C,X
+MM-1036,2025-09-28,108,315.43,12,Packaging Materials,C,X
+MM-1036,2025-10-05,95,275.61,13,Packaging Materials,C,X
+MM-1036,2025-10-12,104,312.01,14,Packaging Materials,C,X
+MM-1036,2025-10-19,74,219.23,15,Packaging Materials,C,X
+MM-1036,2025-10-26,70,200.01,16,Packaging Materials,C,X
+MM-1036,2025-11-02,116,341.96,17,Packaging Materials,C,X
+MM-1036,2025-11-09,66,192.04,18,Packaging Materials,C,X
+MM-1036,2025-11-16,59,174.75,19,Packaging Materials,C,X
+MM-1036,2025-11-23,90,266.52,20,Packaging Materials,C,X
+MM-1036,2025-11-30,67,196.63,21,Packaging Materials,C,X
+MM-1036,2025-12-07,97,284.15,22,Packaging Materials,C,X
+MM-1036,2025-12-14,107,305.9,23,Packaging Materials,C,X
+MM-1036,2025-12-21,64,185.71,24,Packaging Materials,C,X
+MM-1036,2025-12-28,99,293.55,25,Packaging Materials,C,X
+MM-1036,2026-01-04,70,207.14,26,Packaging Materials,C,X
+MM-1036,2026-01-11,81,241.46,27,Packaging Materials,C,X
+MM-1036,2026-01-18,97,280.67,28,Packaging Materials,C,X
+MM-1036,2026-01-25,77,225.35,29,Packaging Materials,C,X
+MM-1036,2026-02-01,99,288.73,30,Packaging Materials,C,X
+MM-1036,2026-02-08,91,269.21,31,Packaging Materials,C,X
+MM-1036,2026-02-15,120,359.24,32,Packaging Materials,C,X
+MM-1036,2026-02-22,120,357.17,33,Packaging Materials,C,X
+MM-1036,2026-03-01,82,240.65,34,Packaging Materials,C,X
+MM-1036,2026-03-08,105,311.96,35,Packaging Materials,C,X
+MM-1036,2026-03-15,122,368.35,36,Packaging Materials,C,X
+MM-1036,2026-03-22,66,194.78,37,Packaging Materials,C,X
+MM-1036,2026-03-29,87,257.62,38,Packaging Materials,C,X
+MM-1036,2026-04-05,96,280.05,39,Packaging Materials,C,X
+MM-1036,2026-04-12,60,172.29,40,Packaging Materials,C,X
+MM-1036,2026-04-19,126,381.53,41,Packaging Materials,C,X
+MM-1036,2026-04-26,71,202.5,42,Packaging Materials,C,X
+MM-1036,2026-05-03,119,339.78,43,Packaging Materials,C,X
+MM-1036,2026-05-10,65,193.59,44,Packaging Materials,C,X
+MM-1036,2026-05-17,66,196.52,45,Packaging Materials,C,X
+MM-1036,2026-05-24,41,123.97,46,Packaging Materials,C,X
+MM-1036,2026-05-31,88,266.28,47,Packaging Materials,C,X
+MM-1036,2026-06-07,51,153.8,48,Packaging Materials,C,X
+MM-1036,2026-06-14,74,212.89,49,Packaging Materials,C,X
+MM-1036,2026-06-21,60,176.57,50,Packaging Materials,C,X
+MM-1036,2026-06-28,86,259.28,51,Packaging Materials,C,X
+MM-1036,2026-07-05,17,49.41,52,Packaging Materials,C,X
+MM-1037,2026-04-12,90,153.06,1,Packaging Materials,C,X
+MM-1037,2026-04-19,88,146.73,2,Packaging Materials,C,X
+MM-1037,2026-04-26,85,145.48,3,Packaging Materials,C,X
+MM-1037,2026-05-03,87,146.57,4,Packaging Materials,C,X
+MM-1037,2026-05-10,103,173.16,5,Packaging Materials,C,X
+MM-1037,2026-05-17,96,164.82,6,Packaging Materials,C,X
+MM-1037,2026-05-24,85,141.91,7,Packaging Materials,C,X
+MM-1037,2026-05-31,82,137.91,8,Packaging Materials,C,X
+MM-1037,2026-06-07,94,159.44,9,Packaging Materials,C,X
+MM-1037,2026-06-14,89,146.99,10,Packaging Materials,C,X
+MM-1037,2026-06-21,77,128.16,11,Packaging Materials,C,X
+MM-1037,2026-06-28,87,143.59,12,Packaging Materials,C,X
+MM-1037,2026-07-05,106,178.47,13,Packaging Materials,C,X
+MM-1038,2025-07-13,154,177.21,1,Packaging Materials,C,X
+MM-1038,2025-07-20,200,229.96,2,Packaging Materials,C,X
+MM-1038,2025-07-27,203,231.25,3,Packaging Materials,C,X
+MM-1038,2025-08-03,205,235.72,4,Packaging Materials,C,X
+MM-1038,2025-08-10,236,264.45,5,Packaging Materials,C,X
+MM-1038,2025-08-17,234,264.11,6,Packaging Materials,C,X
+MM-1038,2025-08-24,185,208.64,7,Packaging Materials,C,X
+MM-1038,2025-08-31,225,254.24,8,Packaging Materials,C,X
+MM-1038,2025-09-07,191,224.6,9,Packaging Materials,C,X
+MM-1038,2025-09-14,209,239.27,10,Packaging Materials,C,X
+MM-1038,2025-09-21,185,218.42,11,Packaging Materials,C,X
+MM-1038,2025-09-28,181,202.77,12,Packaging Materials,C,X
+MM-1038,2025-10-05,163,192.95,13,Packaging Materials,C,X
+MM-1038,2025-10-12,209,234.67,14,Packaging Materials,C,X
+MM-1038,2025-10-19,200,227.45,15,Packaging Materials,C,X
+MM-1038,2025-10-26,187,217.56,16,Packaging Materials,C,X
+MM-1038,2025-11-02,171,194.82,17,Packaging Materials,C,X
+MM-1038,2025-11-09,150,172.48,18,Packaging Materials,C,X
+MM-1038,2025-11-16,166,190.12,19,Packaging Materials,C,X
+MM-1038,2025-11-23,181,213.82,20,Packaging Materials,C,X
+MM-1038,2025-11-30,181,208.42,21,Packaging Materials,C,X
+MM-1038,2025-12-07,208,233.12,22,Packaging Materials,C,X
+MM-1038,2025-12-14,209,233.93,23,Packaging Materials,C,X
+MM-1038,2025-12-21,190,218.41,24,Packaging Materials,C,X
+MM-1038,2025-12-28,186,208.6,25,Packaging Materials,C,X
+MM-1038,2026-01-04,187,216.1,26,Packaging Materials,C,X
+MM-1038,2026-01-11,177,201.99,27,Packaging Materials,C,X
+MM-1038,2026-01-18,195,220.48,28,Packaging Materials,C,X
+MM-1038,2026-01-25,187,221.38,29,Packaging Materials,C,X
+MM-1038,2026-02-01,291,344.28,30,Packaging Materials,C,X
+MM-1038,2026-02-08,256,286.99,31,Packaging Materials,C,X
+MM-1038,2026-02-15,271,306.75,32,Packaging Materials,C,X
+MM-1038,2026-02-22,247,277.15,33,Packaging Materials,C,X
+MM-1038,2026-03-01,331,376.99,34,Packaging Materials,C,X
+MM-1038,2026-03-08,223,259.78,35,Packaging Materials,C,X
+MM-1038,2026-03-15,207,243.08,36,Packaging Materials,C,X
+MM-1038,2026-03-22,320,368.85,37,Packaging Materials,C,X
+MM-1038,2026-03-29,204,234.53,38,Packaging Materials,C,X
+MM-1038,2026-04-05,228,256.88,39,Packaging Materials,C,X
+MM-1038,2026-04-12,210,238.08,40,Packaging Materials,C,X
+MM-1038,2026-04-19,231,272.5,41,Packaging Materials,C,X
+MM-1038,2026-04-26,205,236.67,42,Packaging Materials,C,X
+MM-1038,2026-05-03,224,253.75,43,Packaging Materials,C,X
+MM-1038,2026-05-10,224,251.23,44,Packaging Materials,C,X
+MM-1038,2026-05-17,165,186.58,45,Packaging Materials,C,X
+MM-1038,2026-05-24,180,204.7,46,Packaging Materials,C,X
+MM-1038,2026-05-31,217,253.99,47,Packaging Materials,C,X
+MM-1038,2026-06-07,229,265.75,48,Packaging Materials,C,X
+MM-1038,2026-06-14,213,244.66,49,Packaging Materials,C,X
+MM-1038,2026-06-21,226,260.07,50,Packaging Materials,C,X
+MM-1038,2026-06-28,262,303.84,51,Packaging Materials,C,X
+MM-1038,2026-07-05,224,251.79,52,Packaging Materials,C,X
+MM-1039,2025-07-13,110,260.9,1,Packaging Materials,C,X
+MM-1039,2025-07-20,98,228.14,2,Packaging Materials,C,X
+MM-1039,2025-07-27,93,221.08,3,Packaging Materials,C,X
+MM-1039,2025-08-03,104,243.68,4,Packaging Materials,C,X
+MM-1039,2025-08-10,108,260.39,5,Packaging Materials,C,X
+MM-1039,2025-08-17,100,240.41,6,Packaging Materials,C,X
+MM-1039,2025-08-24,103,244.38,7,Packaging Materials,C,X
+MM-1039,2025-08-31,129,313.46,8,Packaging Materials,C,X
+MM-1039,2025-09-07,118,288.48,9,Packaging Materials,C,X
+MM-1039,2025-09-14,107,259.25,10,Packaging Materials,C,X
+MM-1039,2025-09-21,96,231.27,11,Packaging Materials,C,X
+MM-1039,2025-09-28,99,236.84,12,Packaging Materials,C,X
+MM-1039,2025-10-05,85,205.81,13,Packaging Materials,C,X
+MM-1039,2025-10-12,105,252.83,14,Packaging Materials,C,X
+MM-1039,2025-10-19,92,214.77,15,Packaging Materials,C,X
+MM-1039,2025-10-26,101,242.5,16,Packaging Materials,C,X
+MM-1039,2025-11-02,104,242.69,17,Packaging Materials,C,X
+MM-1039,2025-11-09,97,229.57,18,Packaging Materials,C,X
+MM-1039,2025-11-16,88,210.37,19,Packaging Materials,C,X
+MM-1039,2025-11-23,83,196.96,20,Packaging Materials,C,X
+MM-1039,2025-11-30,80,187.82,21,Packaging Materials,C,X
+MM-1039,2025-12-07,107,251.75,22,Packaging Materials,C,X
+MM-1039,2025-12-14,99,241.6,23,Packaging Materials,C,X
+MM-1039,2025-12-21,95,227.69,24,Packaging Materials,C,X
+MM-1039,2025-12-28,109,254.41,25,Packaging Materials,C,X
+MM-1039,2026-01-04,118,285.3,26,Packaging Materials,C,X
+MM-1039,2026-01-11,100,233.52,27,Packaging Materials,C,X
+MM-1039,2026-01-18,116,273.15,28,Packaging Materials,C,X
+MM-1039,2026-01-25,120,287.69,29,Packaging Materials,C,X
+MM-1039,2026-02-01,140,341.3,30,Packaging Materials,C,X
+MM-1039,2026-02-08,118,283.52,31,Packaging Materials,C,X
+MM-1039,2026-02-15,112,263.45,32,Packaging Materials,C,X
+MM-1039,2026-02-22,131,304.21,33,Packaging Materials,C,X
+MM-1039,2026-03-01,137,330.52,34,Packaging Materials,C,X
+MM-1039,2026-03-08,129,307.36,35,Packaging Materials,C,X
+MM-1039,2026-03-15,148,359.17,36,Packaging Materials,C,X
+MM-1039,2026-03-22,119,283.23,37,Packaging Materials,C,X
+MM-1039,2026-03-29,124,291.01,38,Packaging Materials,C,X
+MM-1039,2026-04-05,99,240.78,39,Packaging Materials,C,X
+MM-1039,2026-04-12,103,244.9,40,Packaging Materials,C,X
+MM-1039,2026-04-19,104,251.95,41,Packaging Materials,C,X
+MM-1039,2026-04-26,107,252.91,42,Packaging Materials,C,X
+MM-1039,2026-05-03,91,212.07,43,Packaging Materials,C,X
+MM-1039,2026-05-10,113,268.61,44,Packaging Materials,C,X
+MM-1039,2026-05-17,95,231.64,45,Packaging Materials,C,X
+MM-1039,2026-05-24,131,314.15,46,Packaging Materials,C,X
+MM-1039,2026-05-31,96,228.62,47,Packaging Materials,C,X
+MM-1039,2026-06-07,107,247.33,48,Packaging Materials,C,X
+MM-1039,2026-06-14,107,260.1,49,Packaging Materials,C,X
+MM-1039,2026-06-21,98,237.38,50,Packaging Materials,C,X
+MM-1039,2026-06-28,112,267.02,51,Packaging Materials,C,X
+MM-1039,2026-07-05,115,271.78,52,Packaging Materials,C,X

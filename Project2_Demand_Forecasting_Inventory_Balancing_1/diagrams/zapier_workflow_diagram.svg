@@ -1,0 +1,71 @@
+<svg viewBox="0 0 1100 460" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#5B6B7F"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="1100" height="460" fill="#FFFFFF"/>
+  <text x="30" y="36" font-size="20" font-weight="700" fill="#1F3864">Low-Stock Alert Workflow (Zapier — documented design)</text>
+  <text x="30" y="58" font-size="12" fill="#7F7F7F">Google Sheets (Inventory_Planning_Model mirror) drives the trigger; Slack + Gmail close the loop with a planner</text>
+
+  <!-- Trigger -->
+  <rect x="30" y="110" width="190" height="110" rx="10" fill="#1F3864"/>
+  <text x="125" y="140" font-size="11" fill="#FFFFFF" text-anchor="middle" font-weight="700">TRIGGER</text>
+  <text x="125" y="165" font-size="13" fill="#FFFFFF" text-anchor="middle">Google Sheets</text>
+  <text x="125" y="183" font-size="11" fill="#D9E1F2" text-anchor="middle">New / Updated Row</text>
+  <text x="125" y="200" font-size="10" fill="#AEB9CC" text-anchor="middle">Inventory_Planning_Model</text>
+
+  <line x1="220" y1="165" x2="278" y2="165" stroke="#5B6B7F" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Filter -->
+  <rect x="280" y="110" width="190" height="110" rx="10" fill="#C00000"/>
+  <text x="375" y="140" font-size="11" fill="#FFFFFF" text-anchor="middle" font-weight="700">FILTER</text>
+  <text x="375" y="165" font-size="13" fill="#FFFFFF" text-anchor="middle">Zapier Filter</text>
+  <text x="375" y="183" font-size="11" fill="#FBD9D9" text-anchor="middle">Inventory_Status =</text>
+  <text x="375" y="200" font-size="11" fill="#FBD9D9" text-anchor="middle">"Stockout Risk"</text>
+
+  <line x1="470" y1="165" x2="528" y2="165" stroke="#5B6B7F" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Branch label -->
+  <text x="555" y="90" font-size="11" fill="#7F7F7F">runs in parallel</text>
+
+  <!-- Action 1: Slack -->
+  <rect x="530" y="30" width="200" height="90" rx="10" fill="#2E7D32"/>
+  <text x="630" y="55" font-size="11" fill="#FFFFFF" text-anchor="middle" font-weight="700">ACTION 1</text>
+  <text x="630" y="78" font-size="13" fill="#FFFFFF" text-anchor="middle">Slack</text>
+  <text x="630" y="96" font-size="11" fill="#D9EAD9" text-anchor="middle">Post to #inventory-planning</text>
+
+  <!-- Action 2: Gmail -->
+  <rect x="530" y="140" width="200" height="90" rx="10" fill="#2E7D32"/>
+  <text x="630" y="165" font-size="11" fill="#FFFFFF" text-anchor="middle" font-weight="700">ACTION 2</text>
+  <text x="630" y="188" font-size="13" fill="#FFFFFF" text-anchor="middle">Gmail</text>
+  <text x="630" y="206" font-size="11" fill="#D9EAD9" text-anchor="middle">Email category planner</text>
+
+  <!-- Action 3: Update Sheet -->
+  <rect x="530" y="250" width="200" height="90" rx="10" fill="#B08900"/>
+  <text x="630" y="275" font-size="11" fill="#FFFFFF" text-anchor="middle" font-weight="700">ACTION 3</text>
+  <text x="630" y="298" font-size="13" fill="#FFFFFF" text-anchor="middle">Google Sheets</text>
+  <text x="630" y="316" font-size="11" fill="#F3E9D2" text-anchor="middle">Write Alert_Sent_At</text>
+
+  <!-- connectors from filter to 3 actions -->
+  <path d="M470,165 C500,165 500,75 528,75" fill="none" stroke="#5B6B7F" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M470,165 C500,165 500,185 528,185" fill="none" stroke="#5B6B7F" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M470,165 C500,165 500,295 528,295" fill="none" stroke="#5B6B7F" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Result panel -->
+  <rect x="770" y="110" width="300" height="110" rx="10" fill="#F2F2F2" stroke="#D9D9D9"/>
+  <text x="920" y="135" font-size="11" fill="#595959" text-anchor="middle" font-weight="700">RESULT</text>
+  <text x="920" y="160" font-size="12" fill="#333333" text-anchor="middle">Planner sees the alert in Slack</text>
+  <text x="920" y="178" font-size="12" fill="#333333" text-anchor="middle">or email within minutes of</text>
+  <text x="920" y="196" font-size="12" fill="#333333" text-anchor="middle">days-of-supply crossing lead time</text>
+
+  <line x1="730" y1="75" x2="770" y2="140" stroke="#BFBFBF" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="730" y1="185" x2="770" y2="165" stroke="#BFBFBF" stroke-width="1.5" stroke-dasharray="3,3"/>
+
+  <!-- Field mapping footer -->
+  <rect x="30" y="360" width="1040" height="80" rx="10" fill="#F8F9FB" stroke="#E5E7EB"/>
+  <text x="50" y="382" font-size="11" font-weight="700" fill="#1F3864">Field mapping</text>
+  <text x="50" y="402" font-size="10.5" fill="#444444">SKU_ID -&gt; A   |   Description -&gt; B   |   Category -&gt; C (routes planner)   |   Days_of_Supply_Incl_Pipeline -&gt; Q</text>
+  <text x="50" y="420" font-size="10.5" fill="#444444">Lead_Time_Days -&gt; D (context in message)   |   Inventory_Status -&gt; R (filter condition = "Stockout Risk")</text>
+</svg>

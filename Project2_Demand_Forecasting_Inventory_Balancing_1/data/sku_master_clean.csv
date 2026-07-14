@@ -1,0 +1,41 @@
+SKU_ID,SKU_Description,Category,Supplier,Unit_Cost,Unit_Price,UOM,Lead_Time_Days,Warehouse,Supplier_Clean,UOM_Clean
+MM-1000,Fasteners Item 01 - Fasteners & Hardware,Fasteners & Hardware,midwest fastener co.,3.82,6.94,PCS,65,WH-OHIO,Midwest Fastener Co.,PCS
+MM-1001,Fasteners Item 02 - Fasteners & Hardware,Fasteners & Hardware,Midwest Fastener Co.,3.86,6.59,EA,43,WH-NEVADA,Midwest Fastener Co.,EA
+MM-1002,Fasteners Item 03 - Fasteners & Hardware,Fasteners & Hardware,Midwest Fastener Co.,2.83,4.93,ea.,60,WH-NEVADA,Midwest Fastener Co.,EA
+MM-1003,Fasteners Item 04 - Fasteners & Hardware,Fasteners & Hardware,Midwest Fastener Co.,2.56,5.13,box,52,WH-OHIO,Midwest Fastener Co.,BOX
+MM-1004,Fasteners Item 05 - Fasteners & Hardware,Fasteners & Hardware,Midwest Fastener Co.,3.55,6.83,EA,49,WH-OHIO,Midwest Fastener Co.,EA
+MM-1005,Bearings Item 01 - Bearings & Bushings,Bearings & Bushings,Precision Bearing Supply,3.02,4.89,pcs,95,WH-OHIO,Precision Bearing Supply,PCS
+MM-1006,Bearings Item 02 - Bearings & Bushings,Bearings & Bushings,Precision Bearing Supply,3.9,6.75,ea.,126,WH-TEXAS,Precision Bearing Supply,EA
+MM-1007,Bearings Item 03 - Bearings & Bushings,Bearings & Bushings,PRECISION BEARING SUPPLY,3.36,4.96,pcs,128,WH-TEXAS,Precision Bearing Supply,PCS
+MM-1008,Bearings Item 04 - Bearings & Bushings,Bearings & Bushings,Precision Bearing Supply,5.13,7.78,pcs,164,WH-OHIO,Precision Bearing Supply,PCS
+MM-1009,Bearings Item 05 - Bearings & Bushings,Bearings & Bushings,Precision Bearing Supply,5.45,8.96,each,141,WH-OHIO,Precision Bearing Supply,EA
+MM-1010,Electric Motors Item 01 - Electric Motors & Drives,Electric Motors & Drives,Torque Dynamics LLC,13.08,27.85,ea.,32,WH-TEXAS,Torque Dynamics Llc,EA
+MM-1011,Electric Motors Item 02 - Electric Motors & Drives,Electric Motors & Drives,Torque Dynamics LLC,15.22,32.01,Each,52,WH-NEVADA,Torque Dynamics Llc,EA
+MM-1012,Electric Motors Item 03 - Electric Motors & Drives,Electric Motors & Drives,Torque Dynamics LLC,17.6,34.86,EA,39,WH-OHIO,Torque Dynamics Llc,EA
+MM-1013,Electric Motors Item 04 - Electric Motors & Drives,Electric Motors & Drives,Torque Dynamics LLC,12.69,24.36,each,44,WH-TEXAS,Torque Dynamics Llc,EA
+MM-1014,Electric Motors Item 05 - Electric Motors & Drives,Electric Motors & Drives,TORQUE DYNAMICS LLC,20.28,42.0,FT,40,WH-TEXAS,Torque Dynamics Llc,FT
+MM-1015,Sensors Item 01 - Sensors & Controls,Sensors & Controls,SenTech Industrial,5.56,11.32,each,27,WH-TEXAS,Sentech Industrial,EA
+MM-1016,Sensors Item 02 - Sensors & Controls,Sensors & Controls,SenTech Industrial,4.87,11.47,PCS,30,WH-TEXAS,Sentech Industrial,PCS
+MM-1017,Sensors Item 03 - Sensors & Controls,Sensors & Controls,SenTech Industrial,8.28,16.81,each,31,WH-OHIO,Sentech Industrial,EA
+MM-1018,Sensors Item 04 - Sensors & Controls,Sensors & Controls,SenTech Industrial,4.34,9.73,Feet,25,WH-OHIO,Sentech Industrial,FT
+MM-1019,Sensors Item 05 - Sensors & Controls,Sensors & Controls,SenTech Industrial,3.76,9.01,BOX,22,WH-OHIO,Sentech Industrial,BOX
+MM-1020,Seals Item 01 - Seals & Gaskets,Seals & Gaskets,Apex Rubber & Seal,2.59,4.55,ea.,16,WH-TEXAS,Apex Rubber & Seal,EA
+MM-1021,Seals Item 02 - Seals & Gaskets,Seals & Gaskets,Apex Rubber & Seal,0.94,1.73,Each,36,WH-OHIO,Apex Rubber & Seal,EA
+MM-1022,Seals Item 03 - Seals & Gaskets,Seals & Gaskets,apex rubber & seal,1.41,2.52,BOX,50,WH-OHIO,Apex Rubber & Seal,BOX
+MM-1023,Seals Item 04 - Seals & Gaskets,Seals & Gaskets,Apex Rubber & Seal,0.97,1.7,Box,53,WH-NEVADA,Apex Rubber & Seal,BOX
+MM-1024,Seals Item 05 - Seals & Gaskets,Seals & Gaskets,Apex Rubber & Seal,1.42,2.47,FT,34,WH-OHIO,Apex Rubber & Seal,FT
+MM-1025,Pneumatic Components Item 01 - Pneumatic Components,Pneumatic Components,AirFlow Pneumatics Inc.,14.33,29.1,BOX,55,WH-NEVADA,Airflow Pneumatics Inc.,BOX
+MM-1026,Pneumatic Components Item 02 - Pneumatic Components,Pneumatic Components,AirFlow Pneumatics Inc.,12.21,23.79,each,51,WH-TEXAS,Airflow Pneumatics Inc.,EA
+MM-1027,Pneumatic Components Item 03 - Pneumatic Components,Pneumatic Components,AirFlow Pneumatics Inc.,7.11,12.47,each,57,WH-OHIO,Airflow Pneumatics Inc.,EA
+MM-1028,Pneumatic Components Item 04 - Pneumatic Components,Pneumatic Components,AirFlow Pneumatics Inc.,6.69,12.19,ft,46,WH-OHIO,Airflow Pneumatics Inc.,FT
+MM-1029,Pneumatic Components Item 05 - Pneumatic Components,Pneumatic Components,AirFlow Pneumatics Inc.,6.07,11.86,EA,19,WH-TEXAS,Airflow Pneumatics Inc.,EA
+MM-1030,Raw Material Item 01 - Raw Material - Metal Stock,Raw Material - Metal Stock,Great Lakes Steel Supply,31.3,46.19,each,40,WH-OHIO,Great Lakes Steel Supply,EA
+MM-1031,Raw Material Item 02 - Raw Material - Metal Stock,Raw Material - Metal Stock,Great Lakes Steel Supply,19.22,27.19,Feet,68,WH-NEVADA,Great Lakes Steel Supply,FT
+MM-1032,Raw Material Item 03 - Raw Material - Metal Stock,Raw Material - Metal Stock,great lakes steel supply,25.32,36.81,each,43,WH-OHIO,Great Lakes Steel Supply,EA
+MM-1033,Raw Material Item 04 - Raw Material - Metal Stock,Raw Material - Metal Stock,Great Lakes Steel Supply,34.39,51.57,box,38,WH-OHIO,Great Lakes Steel Supply,BOX
+MM-1034,Raw Material Item 05 - Raw Material - Metal Stock,Raw Material - Metal Stock,Great Lakes Steel Supply,31.12,41.87,Pcs,57,WH-NEVADA,Great Lakes Steel Supply,PCS
+MM-1035,Packaging Materials Item 01 - Packaging Materials,Packaging Materials,SecurePack Solutions,0.84,1.91,BOX,19,WH-OHIO,Securepack Solutions,BOX
+MM-1036,Packaging Materials Item 02 - Packaging Materials,Packaging Materials,SecurePack Solutions,1.2,2.94,Each,34,WH-OHIO,Securepack Solutions,EA
+MM-1037,Packaging Materials Item 03 - Packaging Materials,Packaging Materials,SecurePack Solutions,0.78,1.68,EA,23,WH-TEXAS,Securepack Solutions,EA
+MM-1038,Packaging Materials Item 04 - Packaging Materials,Packaging Materials,SecurePack Solutions,0.53,1.15,PCS,17,WH-NEVADA,Securepack Solutions,PCS
+MM-1039,Packaging Materials Item 05 - Packaging Materials,Packaging Materials,SecurePack Solutions,0.96,2.38,Each,16,WH-NEVADA,Securepack Solutions,EA

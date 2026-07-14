@@ -1,0 +1,402 @@
+{
+  "MM-1000": {
+    "start_row": 2,
+    "end_row": 53,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 2,
+    "train_end_row": 47,
+    "test_start_row": 48,
+    "test_end_row": 53
+  },
+  "MM-1001": {
+    "start_row": 54,
+    "end_row": 105,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 54,
+    "train_end_row": 99,
+    "test_start_row": 100,
+    "test_end_row": 105
+  },
+  "MM-1002": {
+    "start_row": 106,
+    "end_row": 157,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 106,
+    "train_end_row": 151,
+    "test_start_row": 152,
+    "test_end_row": 157
+  },
+  "MM-1003": {
+    "start_row": 158,
+    "end_row": 169,
+    "n_weeks": 12,
+    "eligible": false,
+    "train_start_row": 158,
+    "train_end_row": null,
+    "test_start_row": null,
+    "test_end_row": null
+  },
+  "MM-1004": {
+    "start_row": 170,
+    "end_row": 221,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 170,
+    "train_end_row": 215,
+    "test_start_row": 216,
+    "test_end_row": 221
+  },
+  "MM-1005": {
+    "start_row": 222,
+    "end_row": 273,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 222,
+    "train_end_row": 267,
+    "test_start_row": 268,
+    "test_end_row": 273
+  },
+  "MM-1006": {
+    "start_row": 274,
+    "end_row": 283,
+    "n_weeks": 10,
+    "eligible": false,
+    "train_start_row": 274,
+    "train_end_row": null,
+    "test_start_row": null,
+    "test_end_row": null
+  },
+  "MM-1007": {
+    "start_row": 284,
+    "end_row": 335,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 284,
+    "train_end_row": 329,
+    "test_start_row": 330,
+    "test_end_row": 335
+  },
+  "MM-1008": {
+    "start_row": 336,
+    "end_row": 387,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 336,
+    "train_end_row": 381,
+    "test_start_row": 382,
+    "test_end_row": 387
+  },
+  "MM-1009": {
+    "start_row": 388,
+    "end_row": 439,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 388,
+    "train_end_row": 433,
+    "test_start_row": 434,
+    "test_end_row": 439
+  },
+  "MM-1010": {
+    "start_row": 440,
+    "end_row": 491,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 440,
+    "train_end_row": 485,
+    "test_start_row": 486,
+    "test_end_row": 491
+  },
+  "MM-1011": {
+    "start_row": 492,
+    "end_row": 512,
+    "n_weeks": 21,
+    "eligible": true,
+    "train_start_row": 492,
+    "train_end_row": 506,
+    "test_start_row": 507,
+    "test_end_row": 512
+  },
+  "MM-1012": {
+    "start_row": 513,
+    "end_row": 562,
+    "n_weeks": 50,
+    "eligible": true,
+    "train_start_row": 513,
+    "train_end_row": 556,
+    "test_start_row": 557,
+    "test_end_row": 562
+  },
+  "MM-1013": {
+    "start_row": 563,
+    "end_row": 614,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 563,
+    "train_end_row": 608,
+    "test_start_row": 609,
+    "test_end_row": 614
+  },
+  "MM-1014": {
+    "start_row": 615,
+    "end_row": 666,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 615,
+    "train_end_row": 660,
+    "test_start_row": 661,
+    "test_end_row": 666
+  },
+  "MM-1015": {
+    "start_row": 667,
+    "end_row": 718,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 667,
+    "train_end_row": 712,
+    "test_start_row": 713,
+    "test_end_row": 718
+  },
+  "MM-1016": {
+    "start_row": 719,
+    "end_row": 770,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 719,
+    "train_end_row": 764,
+    "test_start_row": 765,
+    "test_end_row": 770
+  },
+  "MM-1017": {
+    "start_row": 771,
+    "end_row": 787,
+    "n_weeks": 17,
+    "eligible": true,
+    "train_start_row": 771,
+    "train_end_row": 781,
+    "test_start_row": 782,
+    "test_end_row": 787
+  },
+  "MM-1018": {
+    "start_row": 788,
+    "end_row": 839,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 788,
+    "train_end_row": 833,
+    "test_start_row": 834,
+    "test_end_row": 839
+  },
+  "MM-1019": {
+    "start_row": 840,
+    "end_row": 891,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 840,
+    "train_end_row": 885,
+    "test_start_row": 886,
+    "test_end_row": 891
+  },
+  "MM-1020": {
+    "start_row": 892,
+    "end_row": 943,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 892,
+    "train_end_row": 937,
+    "test_start_row": 938,
+    "test_end_row": 943
+  },
+  "MM-1021": {
+    "start_row": 944,
+    "end_row": 995,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 944,
+    "train_end_row": 989,
+    "test_start_row": 990,
+    "test_end_row": 995
+  },
+  "MM-1022": {
+    "start_row": 996,
+    "end_row": 1047,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 996,
+    "train_end_row": 1041,
+    "test_start_row": 1042,
+    "test_end_row": 1047
+  },
+  "MM-1023": {
+    "start_row": 1048,
+    "end_row": 1099,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 1048,
+    "train_end_row": 1093,
+    "test_start_row": 1094,
+    "test_end_row": 1099
+  },
+  "MM-1024": {
+    "start_row": 1100,
+    "end_row": 1151,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 1100,
+    "train_end_row": 1145,
+    "test_start_row": 1146,
+    "test_end_row": 1151
+  },
+  "MM-1025": {
+    "start_row": 1152,
+    "end_row": 1201,
+    "n_weeks": 50,
+    "eligible": true,
+    "train_start_row": 1152,
+    "train_end_row": 1195,
+    "test_start_row": 1196,
+    "test_end_row": 1201
+  },
+  "MM-1026": {
+    "start_row": 1202,
+    "end_row": 1253,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 1202,
+    "train_end_row": 1247,
+    "test_start_row": 1248,
+    "test_end_row": 1253
+  },
+  "MM-1027": {
+    "start_row": 1254,
+    "end_row": 1304,
+    "n_weeks": 51,
+    "eligible": true,
+    "train_start_row": 1254,
+    "train_end_row": 1298,
+    "test_start_row": 1299,
+    "test_end_row": 1304
+  },
+  "MM-1028": {
+    "start_row": 1305,
+    "end_row": 1324,
+    "n_weeks": 20,
+    "eligible": true,
+    "train_start_row": 1305,
+    "train_end_row": 1318,
+    "test_start_row": 1319,
+    "test_end_row": 1324
+  },
+  "MM-1029": {
+    "start_row": 1325,
+    "end_row": 1376,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 1325,
+    "train_end_row": 1370,
+    "test_start_row": 1371,
+    "test_end_row": 1376
+  },
+  "MM-1030": {
+    "start_row": 1377,
+    "end_row": 1427,
+    "n_weeks": 51,
+    "eligible": true,
+    "train_start_row": 1377,
+    "train_end_row": 1421,
+    "test_start_row": 1422,
+    "test_end_row": 1427
+  },
+  "MM-1031": {
+    "start_row": 1428,
+    "end_row": 1432,
+    "n_weeks": 5,
+    "eligible": false,
+    "train_start_row": 1428,
+    "train_end_row": null,
+    "test_start_row": null,
+    "test_end_row": null
+  },
+  "MM-1032": {
+    "start_row": 1433,
+    "end_row": 1483,
+    "n_weeks": 51,
+    "eligible": true,
+    "train_start_row": 1433,
+    "train_end_row": 1477,
+    "test_start_row": 1478,
+    "test_end_row": 1483
+  },
+  "MM-1033": {
+    "start_row": 1484,
+    "end_row": 1533,
+    "n_weeks": 50,
+    "eligible": true,
+    "train_start_row": 1484,
+    "train_end_row": 1527,
+    "test_start_row": 1528,
+    "test_end_row": 1533
+  },
+  "MM-1034": {
+    "start_row": 1534,
+    "end_row": 1585,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 1534,
+    "train_end_row": 1579,
+    "test_start_row": 1580,
+    "test_end_row": 1585
+  },
+  "MM-1035": {
+    "start_row": 1586,
+    "end_row": 1637,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 1586,
+    "train_end_row": 1631,
+    "test_start_row": 1632,
+    "test_end_row": 1637
+  },
+  "MM-1036": {
+    "start_row": 1638,
+    "end_row": 1689,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 1638,
+    "train_end_row": 1683,
+    "test_start_row": 1684,
+    "test_end_row": 1689
+  },
+  "MM-1037": {
+    "start_row": 1690,
+    "end_row": 1702,
+    "n_weeks": 13,
+    "eligible": false,
+    "train_start_row": 1690,
+    "train_end_row": null,
+    "test_start_row": null,
+    "test_end_row": null
+  },
+  "MM-1038": {
+    "start_row": 1703,
+    "end_row": 1754,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 1703,
+    "train_end_row": 1748,
+    "test_start_row": 1749,
+    "test_end_row": 1754
+  },
+  "MM-1039": {
+    "start_row": 1755,
+    "end_row": 1806,
+    "n_weeks": 52,
+    "eligible": true,
+    "train_start_row": 1755,
+    "train_end_row": 1800,
+    "test_start_row": 1801,
+    "test_end_row": 1806
+  }
+}
